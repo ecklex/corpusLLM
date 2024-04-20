@@ -1,5 +1,5 @@
 # corpusLLM
-a linguistic approach for analysing huge text data with LLM
+a linguistic approach for analyzing huge text data with LLM
 
 ## Description
 LLMs don´t seem to work for classic corpus linguistic tasks. You can certainly train the model with your data, but it won´t provide citing the data or search for a specific word frequency in trained text data. Therefore we create a database, import the data and let the LLM search through it.
