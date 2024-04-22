@@ -3,7 +3,7 @@
 import sqlite3
 
 # create a connection object, if not existing, it will be created
-conn = sqlite3.connect('/mnt/c/Users/aecke/Desktop/python/corpusLLM/database/corpusLLM.db')
+conn = sqlite3.connect('/path/to/your/database.db')
 
 # create a cursor object
 cursor = conn.cursor()
