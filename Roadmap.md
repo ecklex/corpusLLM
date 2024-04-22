@@ -7,6 +7,7 @@
 ## Create database
 1. Use python SQlight library to create a database
 2. Insert test corpus into database
+3. Create back up method for database 
 
 ## Prepare Large Language Model
 1. Install maybe Langchain
