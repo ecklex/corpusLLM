@@ -1,7 +1,7 @@
 import sqlite3
 
 # create a connection object
-conn = sqlite3.connect('/path/to/your/database')
+conn = sqlite3.connect('/path/to/your/database.db')
 
 # create a cursor object
 cursor = conn.cursor()
