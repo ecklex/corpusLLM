@@ -1,0 +1,768 @@
+[
+    {
+        "title": "ChatGPT",
+        "body": "ChatGPT ([tʃæt]; von englisch to chat „plaudern, sich unterhalten“; Generative Pre-trained Transformer) ist ein Chatbot, der künstliche Intelligenz einsetzt, um mit Nutzern über textbasierte Nachrichten und Bilder zu kommunizieren. Er nutzt moderne maschinelle Lerntechnologie, um Antworten zu generieren, die natürlich klingen und für das Gespräch relevant sein sollen. Entwickelt wurde der Chatbot von dem US-amerikanischen Unternehmen OpenAI mit Sitz in Kalifornien, das ihn im November 2022 veröffentlichte.
+Inhaltsverzeichnis
+
+    1 Geschichte
+        1.1 Anfänge
+        1.2 Boom 2022/2023
+        1.3 Technische Weiterentwicklung
+        1.4 Kosten
+        1.5 Partnerschaft mit Microsoft
+        1.6 Nutzerzahlen
+    2 Training
+    3 Anwendungsmöglichkeiten
+    4 App
+        4.1 Offiziell
+            4.1.1 iOS
+            4.1.2 Android
+        4.2 Inoffiziell
+    5 Sprachen
+    6 Kritik und Probleme
+        6.1 Missbrauch in Gerichtsverfahren
+        6.2 Sicherheits- und Datenschutzprobleme
+        6.3 Technische Aspekte und Ressourcenverbrauch
+        6.4 Psychische Belastungen für Clickworker
+    7 Reaktionen
+        7.1 Mögliche Auswirkungen in Unterricht und Forschung
+        7.2 Gefahr der Konzernabhängigkeit
+        7.3 Einfluss auf die Finanzmärkte
+        7.4 Aufruf zu einer KI-Entwicklungspause
+    8 Literatur (Auswahl)
+    9 Weblinks
+    10 Einzelnachweise
+
+Geschichte
+Anfänge
+
+OpenAI, das Unternehmen hinter ChatGPT, wurde 2015 gegründet. Das erste Sprachmodell, GPT-1, wurde im Juni 2018 eingeführt. Es bestand aus 117 Millionen Parametern und definierte die grundlegende Architektur für Generative vortrainierte Transformer.[2] Die Anzahl der Parameter definiert die Leistungsfähigkeit eines KI-Modells.
+
+Der im Februar 2019 gestartete Nachfolger, GPT-2 umfasste bereits mehr als zwölfmal so viele Parameter, nämlich 1,5 Milliarden. Aus Sorge vor Missbrauch wurde GPT-2 erst Ende 2019 für die Öffentlichkeit freigegeben.[3] GPT-3 folgte im Juni 2020 – es war mit 175 Milliarden Parametern trainiert worden und das erste Modell, das in der Lage war, wirklich umfassende und unterschiedliche Aufgaben zu erledigen: vom Verfassen von E-Mails und sonstigen Texten, über Übersetzungen bis zur Erstellung von Programmiercode.[4] Zudem war es erstmals in der Lage, umfassend frei formulierte Fragen von Nutzern zu beantworten.[5][6]
+Boom 2022/2023
+Wie funktioniert ChatGPT-3.0? Erklärvideo (1 min 30)
+
+Nachdem OpenAI am 30. November 2022 eine verbesserte Version GPT-3, bekannt als ChatGPT, kostenfrei für die Öffentlichkeit freigab, registrierten sich innerhalb von nur fünf Tagen weltweit eine Million Nutzer.[7][8] Trotz der Limitierungen des Tools, wie etwa der fehlenden Verbindung zum offenen Internet, war das Interesse enorm. OpenAI hatte ChatGPT nur mit Inhalten bis September 2021 trainiert.[9] Aus diesem Grund konnte das Tool keine aktuellen Abfragen beantworten, eine Eigenschaft, die auch in der Basisversion des technisch deutlich leistungsfähigeren Nachfolgers GPT-4 bestehen bleibt.[10]
+
+Den Hype um die App erklärten sich Experten vor allem mit der sehr einfachen Nutzbarkeit: Erstmals konnten auch Laien weltweit mit KI interagieren, ohne Computer-Kenntnisse zu besitzen. Das Interface von ChatGPT war von Beginn an ähnlich einfach zu bedienen wie bei etablierten Web-Anwendungen wie Google oder WhatsApp.
+
+ChatGPT soll schon von Anbeginn im Vergleich zum Vorgänger InstructGPT darauf angelegt worden sein, schädliche und irreführende Antworten zu vermeiden. Während InstructGPT die Vorgabe in der Anfrage „Erzähle mir davon, wie Christoph Kolumbus 2015 in die USA kam“ als wahr wertet, nutzt ChatGPT Wissen über Kolumbusʼ Reisen und das bis zum Jahre 2021 erlernte Verständnis, um eine Antwort zu liefern, die annimmt, was geschehen wäre, wenn Kolumbus 2015 in den USA gelandet wäre.[11] Trotz der erheblichen Verbesserungen in ChatGPT im Vergleich zu seinem Vorgänger InstructGPT, war das Tool jedoch nicht frei von Fehlern und lieferte immer noch eine erhebliche Menge an Falschinformationen.[12] OpenAI unternahm große Anstrengungen, um die Genauigkeit und Zuverlässigkeit von ChatGPT zu verbessern und schädliche oder irreführende Antworten zu minimieren. Doch trotz dieser Bemühungen stellte sich heraus, dass das System immer noch anfällig für Missverständnisse und Inkonsistenzen in den Antworten war, was teilweise auf die Begrenzungen der Transformer-Architektur und der verfügbaren Trainingsdaten zurückzuführen ist.[13]
+
+Mit Updates vom 15. Dezember 2022 und 9. Januar 2023 sollten laut Herstellerangaben die Themenbereiche erweitert und die Korrektheit der Aussagen verbessert worden sein.[14] Ein Update am 30. Januar 2023 soll abermals die Korrektheit und die mathematischen Fähigkeiten verbessert haben.[15]
+
+Im Februar 2023 hielt der NEOS-Abgeordnete Niko Swatek im Landtag Steiermark eine Rede zum Thema Schulstraßen, die er von ChatGPT hatte schreiben lassen, wie er nach zwei weiteren Rednern bekanntgab.[16] Die erste von ChatGPT geschriebene Rede im Europaparlament hielt der Volt-Abgeordnete Damian Boeselager im Februar 2023. Boeselager ließ die Software eine Rede über die Regulierung von Künstlicher Intelligenz in Shakespeare-Englisch schreiben, um die Auswirkungen generativer Sprachmodelle in allen Bereichen der Arbeitswelt darzustellen.[17]
+Technische Weiterentwicklung
+
+Am 14. März 2023 erschien offiziell Version 4.0 von GPT, welche auch die Fähigkeiten von ChatGPT erweitern soll.[18] GPT-4 ermöglicht eine Bildeingabe und die Analyse und Beschreibung von Skizzen und Fotos. Es ist möglich, abfotografierte Aufgaben aus Büchern lösen zu lassen. Wissenschaftliche Arbeiten können hochgeladen werden, um eine Zusammenfassung generieren zu lassen. Examensprüfungen konnte GPT-4 bei Tests in den USA mit Auszeichnung erledigen. Komplizierte Steuerfragen werden beantwortet.[19]
+
+Ende März 2023 startete OpenAI seinen Plugin-Store. Analog zu den vom Smartphone bekannten App Stores können Drittanbieter für den Plugin-Store eigene Apps entwickeln, die User dann nach eigenem Bedarf in GPT-4 integrieren. Diese Plugins ermöglichen diverse Spezialfunktionen, wie beispielsweise die Analyse von Websites auf ihre Suchmaschinenoptimierung, die Zusammenfassung von YouTube-Videos anhand ihrer Untertitel oder die Erstellung von spezifizierten Prompts für andere KI-Tools wie Midjourney. Auch bekannte Internet-Apps wie Expedia, Klarna oder Zapier entwickelten ChatGPT-Plugins.[20]
+
+Seit Frühjahr 2023 wurde berichtet, dass OpenAI an ChatGPT-5 arbeite. Sam Altman, der CEO von OpenAI, dementierte mehrmals Gerüchte, dass die neue Version kurz vor dem Start stünde. Unter anderem sagte er im April, dass sein Unternehmen GPT-5 noch nicht trainiere und dies auch kurzfristig nicht vorhabe.[21] Im Juli 2023 meldete OpenAI die Marke GPT-5 beim US-Patentamt an.[22] Experten mutmaßten im Sommer 2023 allerdings, dass als Zwischenschritt und Update des aktuellen Bots zunächst ein ChatGPT-4.5 auf den Markt kommen werde.[23]
+
+Am 25. September 2023 kündigte das Unternehmen Open AI zwei Erweiterungen der Fähigkeiten von ChatGPT an. Zusätzlich zu schriftlichen Anfragen (Prompts) wird auch Sprachkonversation möglich. Für die Spracheingabe wird das bereits vorhandene Spracherkennungssystem Whisper von Open AI genutzt. Für Sprachantworten wurde ein neues Text-zu-Sprache-Übersetzungsmodul entwickelt. Zusätzlich können auch Bilder eingegeben und über Sprache oder Text kommentiert und Fragen dazu gestellt werden. Die neuen Möglichkeiten erleichtern die Kommunikation mit ChatGPT. Die Neuerung wird vorerst nur für ChatGPT-Plus- und Enterprise-Nutzer bis Mitte Oktober 2023 verfügbar gemacht. Eine Namensgebung dieser Version ist nur bezüglich der Bildeingabe als GPT-4V (V=Vision)[24] definiert worden.[25] Kombinationen verschiedenartiger Eingabe- und Ausgabemöglichkeiten werden als multimodal bezeichnet.[26]
+
+Ein umfassendes Update folgte Anfang November, ab 9. November auch für den deutschen Markt, als OpenAI zum einen die Datenbasis auf Stand April 2023 aktualisierte und zum anderen eigenständige „GPTs“ innerhalb von ChatGPT einführte. Mit einem als „GPT Builder“ bezeichneten Tool kann man seitdem selbst, ohne Programmierkenntnisse, Chatbots aufsetzen, die auf Basis festgelegter Voreinstellungen individuelle Aufgaben erledigen.[27]
+
+Im Januar 2024 startete OpenAI den GPT Store, über den Entwickler eigenständige GPTs veröffentlichen und vermarkten können. Voraussetzung ist ein GPT-4-Account (privat oder Enterprise).[28][29]
+Kosten
+
+Am 10. Januar 2023 veröffentlichte OpenAI in seinem Discord-Kanal eine Warteliste für eine kostenpflichtige Version „ChatGPT Professional (experimental)“, in der auch Fragen zur Preissensibilität gestellt wurden.[30][31] Auf der ChatGPT-Website wirbt man dafür mit einem Zugang auch bei hoher Nachfrage, mit schnellerer Reaktionszeit und vorrangigem Zugang zu neuen Funktionen.[32]
+
+Anfang Februar 2023 startete in den USA die kostenpflichtige Professional-Version von ChatGPT.[33] Begonnen wurde mit einem Preis von 23,80 US-Dollar (22 €) pro Monat.[34] Nutzer in Deutschland erhielten mit der Veröffentlichung von GPT-4 im März 2023 Zugang zur Premiumversion und zahlen seither 20 US-Dollar pro Monat.[35] Umgerechnet sind dies etwa 18 € (Stand 11. Juli 2023).
+
+Mit der Veröffentlichung von GPT-4 im März 2023 kehrte sich OpenAI von einem Open-Source-Entwicklungsansatz mit kostenfreier Nutzung ab. Der OpenAI-Mitbegründer Ilya Sutskever begründete diesen Schritt neben Sicherheitsbedenken vor allem mit Wettbewerbsaspekten gegen andere Unternehmen der Branche.[36]
+
+Bereits 2019 war die Tochterfirma OpenAI Global LLC gegründet worden.[37] Diese ist auf Gewinnerzielung gerichtet, was mit den hohen Kosten begründet wurde, die im Rahmen intensiver Forschung und Computernutzung anfielen. Auch wollte man Anreize für Investoren schaffen. Gängiger Unternehmenspraxis entsprechend, durften sich Mitarbeiter ab 2020 nicht mehr öffentlich zu bestimmten Themen äußern, um kommerzielle Interessen zu schützen.[38]
+
+Die Gründungsidee von OpenAI Inc., mit ChatGPT eine offene Alternative zu den marktbeherrschenden großen Technik-Konzernen zu schaffen, war damit infrage gestellt. Der Kritik, dass ohne Transparenz kaum mehr einschätzbar sei, mit welchen Risiken man es zu tun habe und wofür die Software sich eigne, begegnete man seitens OpenAI mit dem Hinweis, man werde im Sinne eines Ausgleichs der Interessen zwischen dem Unternehmen und der wissenschaftsbasierten Öffentlichkeit ausgewählten Dritten Zugang zu technischen Details gewähren.[39]
+Partnerschaft mit Microsoft
+
+Microsoft gab im Januar 2023 eine Partnerschaft mit OpenAI Global LLC bekannt, mit der Investitionen von zehn Milliarden US-Dollar einhergingen. Microsofts Cloud-Computing-Plattform Azure kommt exklusiv zum Einsatz.[40] Insgesamt hat Microsoft bis Mitte 2023 13 Milliarden US-Dollar in das Unternehmen OpenAI Global LLC investiert und besitzt dadurch beinahe die Hälfte dessen Aktien.[41] Zudem plant der Konzern eine Integration in die Abo-Version der eigenen Office-Software.[42]
+
+Im Mai 2023 wurde die Datenbank der Suchmaschine Bing zur Nutzung in ChatGPT zur Verfügung gestellt. Zuvor hatte Microsoft bereits Funktionen von ChatGPT in die Suchmaschinen-Abfrage integriert. Vor der Verknüpfung mit der Bing-Datenbank hatte ChatGPT eine Datenbank auf dem Stand von September 2021 genutzt.[43] Die auch in Europa öffentlich frei zugängliche Kombination der Suchmaschine Bing mit ChatGPT wird neues Bing, Bing-Chat oder Bing AI genannt. Ein Vorteil gegenüber der ausschließlichen Nutzung von ChatGPT besteht darin, dass die verwendeten Suchmaschinenergebnisse durch aktuelle Quellenangaben belegt werden können.[41] OpenAI gab am 28. September 2023 ein neues Feature zum Internetzugriff frei. „Browsing with Bing“ soll fortan die Abfrage von Informationen aus dem Netz über die gleichnamige Microsoft-Suchmaschine auch Nutzern ermöglichen, welche im Übrigen nicht mit Microsoft-Software arbeiten. Die Funktion wurde zunächst nur Nutzern der Bezahlversion GPT-4 zur Verfügung gestellt.[44]
+
+In einem Gespräch mit dem Tagesspiegel erwiderte Microsoft-Gründer Bill Gates im Februar 2023 auf die Bemerkung, der Alltag mit der neuen KI-Software sei angesichts deren Fehlerträchtigkeit ernüchternd, dass es bis zur Lösung des Fehlerproblems noch „ein paar Jahre“ dauern werde. Es gebe aber keinen Weg zurück. „Die Milliarden, die in den Software- und Digitalunternehmen in diese Entwicklung fließen, sind größer als die Forschungsetats von Regierungen.“[45]
+
+Microsoft will eine kostenpflichtige Version von Teams anbieten, in der ChatGPT etwa Zusammenfassungen von Besprechungen erstellt oder Aufgaben empfiehlt. Der Preis soll bei 7 Dollar pro Monat, später bei 10 Dollar pro Monat liegen. Gegen einen Aufpreis für den Organisator der Besprechung kann gesprochener Text live übersetzt werden.[46]
+Nutzerzahlen
+
+ChatGPT hielt vorübergehend den Rekord als die am schnellsten wachsende Internet-Anwendung: Nachdem ChatGPT im November 2022 kostenfrei zugänglich wurde, meldeten sich eine Million Nutzer innerhalb von fünf Tagen an.[7][8] Im Januar 2023 erreichte ChatGPT über 100 Millionen Nutzer. Die Video-App TikTok, zuvor der Rekordhalter, hatte etwa neun Monate gebraucht, um die Marke von 100 Millionen zu erreichen, das Social Network Instagram zweieinhalb Jahre.[47] Den 100-Millionen-User-Rekord verlor ChatGPT im Juli 2023 an Threads, den von Meta als Twitter-Konkurrent angekündigten Microblog.
+
+Die nachlassende Neugier und wachsende Konkurrenz führten dazu, dass das Wachstum von ChatGPT im zweiten Quartal 2023 abflaute und im Juni die Zahl der Nutzer – auf hohem Niveau – erstmals sank.[48]
+Training
+
+Der Chatbot wurde in mehreren Phasen angelernt.
+
+    Die Grundlage bildet das Sprachmodell GPT-3.5, eine verbesserte Version von GPT-3. GPT basiert auf Transformern, einem von Google Brain vorgestellten Maschinenlernmodell, und wurde durch selbstüberwachtes Lernen trainiert. Als Trainingsdaten diente ein zunehmend umfängliches Textkorpus aus Büchern, Briefen, Wikipedia-Einträgen oder auch literarischen Textsammlungen, darunter das gesamte Gutenberg-Projekt. Menge und Vielfalt der Texte dienen dazu, dass das System die sprachlichen Muster der Texte erkennen und unterscheiden kann: dass Gedichte beispielsweise aus Versen bestehen oder dass Fachtexte häufig spezielle Begriffe enthalten.[49] Dieser Schritt wird auch als Pre-Training bezeichnet, da ein Modell erzeugt wurde, das zwar noch nicht die gewünschte Aufgabe erfüllen konnte, die erhaltenen Modellparameter aber günstige Startbedingungen für ein weiteres Fine-Tuning darstellten.
+    Danach wurde das Sprachmodell durch überwachtes Lernen auf die eigentliche Aufgabe trainiert (Fine-Tuning): Das Generieren von Antworten auf vorher gestellte Fragen. Hierfür wurden vorgefertigte Antworten bereitgestellt. Von Anbeginn des Trainings wurden die generierten Antworten von Testpersonen bewertet. Wurden sie als falsch oder abwegig eingeschätzt, probierte das System neue Einstellungen oder Parameter aus.[50] Im anfänglichen Training des Chatbots bevorzugten Tester längere Antworten, unabhängig von tatsächlichem Verständnis oder Inhalt, was zu langen Antworten des Chatbots geführt hat.[11]
+    Im letzten Schritt wurde das Modell durch bestärkendes Lernen durch menschlich beeinflusste Rückkopplung (RLHF) weiter optimiert: Hierfür wurde zunächst ein weiteres Modell (Reward-Model) mit überwachtem Lernen trainiert, dem beigebracht wurde, die Antworten von ChatGPT qualitativ in Form einer Rangliste durch Personen zu bewerten. Diese zusätzliche Verbesserung mittels RLHF wird erstmals bei der Version 4 verwendet. Schließlich kam der Proximal-Policy-Optimization-Algorithmus zum Einsatz, der das Reward-Model als die zu maximierende Belohnungs-Funktion nutzte.[11]
+
+Aufgrund ihrer Erfahrungen bei der Entwicklung von GPT und Codex (einer anderen künstlichen Intelligenz (KI) von OpenAI zur Erstellung von Quell-Code) wurde ChatGPT mit Schutzmechanismen versehen, mit denen falsche oder schädliche Antworten vermieden werden sollen. Dennoch wird auf der Webseite darauf hingewiesen, dass es sich bei der aktuellen Version um eine öffentlich zugängliche Forschungsvorschau handelt und der Chatbot gelegentlich inkorrekte Informationen generieren kann.[51] Die Vielzahl der Parameter bei den Berechnungen des Systems erlaubt es den Entwicklern nicht mehr, die Vorgänge vollständig nachzuvollziehen. „Eine KI-Berechnung wird deshalb oft auch Blackbox genannt – von außen erkennbar sind nur Eingabe und Ausgabe.“[52]
+Anwendungsmöglichkeiten
+Screenshot eines Dialogs mit ChatGPT. Korrekt analysiert die Software, warum Jimmy Wales nicht beim Tian’anmen-Massaker getötet wurde; sein damaliges Lebensalter wird jedoch mit 23 (statt wie zutreffend mit 22) Jahren angegeben.
+
+Als sprachbasierte Anwendung bietet ChatGPT die Möglichkeit zu dialogischem Austausch. Dabei schwankt die Qualität der Antworten. Laut dem KI-Experten Gary Marcus kann es sich „in einem Moment brillant und im nächsten atemberaubend dumm“ äußern.[53] ChatGPT kann unter anderem Texte im Stil von Business-Plänen oder Schul-Hausaufgaben schreiben.[54] Vielfältige Optionen und Herausforderungen ergeben sich in der Wissenschaftskommunikation, wenn ChatGPT genutzt wird, um Wissen zusammenzufassen und zu erklären.[55][56]
+
+Die erweiterten Kommunikationsmöglichkeiten (multimodal) mit Kombinationen von Sprach-, Bild- und/oder Texteingabe und Antworten der Softwareversion von September/Oktober 2023 wurden getestet. Die Bildeingabe kann u. a. auch Texte im Bild erkennen. So hat der Tester die Titelseite einer Zeitung fotografiert und vom Chatbot Zusammenfassungen der Artikel verlangt, wobei das Ergebnis bis auf eine Ausnahme befriedigend war. Nicht befriedigend waren die Resultate bei der Eingabe eines Kreuzworträtsels und Auftrag zu dessen Lösung oder zum Verfassen einer schrittweisen Anleitung aus einer grafischen Darstellung für den Zusammenbau eines Möbels. Als Anwendungsbeispiele wurden weiter angeführt, dass man ein defektes Fahrradteil zeigen und fragen könne, wie es zu reparieren sei, oder dass man ein Foto von den Lebensmitteln im Kühlschrank präsentieren und fragen könne, was damit zu kochen sei.[57] Bewusst hat Open AI die Bildeingabe von Personen weitgehend blockiert, um Missbrauch zu verhindern. Dem Tester gefallen hat die neue Sprachkommunikation. Im Vergleich mit Sprachassistenten wie Siri oder Alexa sind die Sprachantworten von fünf weiblichen und männlichen Sprechervarianten natürlich klingender und erlauben längere Dialoge. Allerdings sind längere Sprachausgaben noch zeitraubend und durch Pausen unterbrochen.[58]
+
+ChatGPT kann Programmcode in verschiedenen Programmiersprachen analysieren und schreiben. Es könnte so auch zur Verbesserung, Kommentierung und Fehlererkennung von Software-Code genutzt werden.[59] Dabei soll zunächst vor allem der Einsatz von Chatbots die Programmierung erleichtern, indem Teilaufgaben von ChatGPT erledigt werden. Ohne Entwicklerkenntnisse sind aktuell aber noch keine zufriedenstellenden Gesamtergebnisse zu erzielen. ChatGPT kann dem Entwickler auch helfen, sich in einer neuen Entwicklungsumgebung zurechtzufinden.[60]
+
+Da ChatGPT zunächst nur mit Daten bis September 2021 trainiert wurde, antwortet die Software auf Anfragen nach aktuellen Ereignissen teilweise mit dem Hinweis, „als KI-Modell habe ich keinen direkten Zugriff auf Echtzeitinformationen.“[61]:
+
+ChatGPT erlaubt Plug-ins die Funktionalität dieser Software zu erweitern, indem diese etwa mit Programmierschnittstellen (APIs) von anderen Software- und Dienstleistungsanbietern interagieren, um Echtzeitinformationen abzurufen, Datenbanken von Unternehmen zu integrieren, bestimmte Berechnungen durchzuführen oder im Namen des Benutzers zu handeln.[62][63] Plugins gibt es beispielsweise auch zur Reiseplanung einschließlich personalisierter Empfehlungen.[64]
+App
+Offiziell
+iOS
+
+Entgegen den Erwartungen brachte OpenAI am 18. Mai 2023 auch eine iOS-App für ChatGPT auf den Markt, die auch in Deutschland verfügbar ist.[65][66] Die App nutzt auch „Whisper“, das Open-Source-Spracherkennungssystem von OpenAI, so dass Anwender der App ihre Fragen mündlich stellen können.[67]
+Android
+
+Seit 27. Juli 2023 lässt sich die offizielle Android-App in Deutschland aus dem Play Store herunterladen.[68]
+Inoffiziell
+
+Da OpenAI zunächst keine eigene App angeboten hatte, wurden solche von Dritten erstellt. In einem Bericht der IT-Sicherheitsfirma Sophos wurden die inoffiziellen Chat-GPT-Apps als Fleeceware bezeichnet,[69] die wenig Funktionalität, aber aggressive Werbeeinblendungen bieten.[70]
+Sprachen
+Humorvolle Selbstdarstellung von ChatGPT für verschiedene Zielgruppen
+
+Laut eigener Angabe spricht ChatGPT Englisch, Französisch, Spanisch, Italienisch, Portugiesisch, Deutsch, Niederländisch, Russisch, Koreanisch und Japanisch sowie „weitere Sprachen“.
+Kritik und Probleme
+
+Die Süddeutsche Zeitung bezeichnete Anfang Dezember 2022 die freie Zugänglichkeit von ChatGPT als „bedenklich“, da viele Internetnutzer dessen Antworten nicht hinterfragten und mangels Quellenangaben auch nicht in der Lage seien, sie auf Korrektheit zu prüfen.[71]
+
+Der Kolumnist Sascha Lobo hielt ChatGPT Anfang Dezember 2022 für einen Durchbruch und befürchtete, dass es eine Flut an schwer erkennbarem „KI-Quatsch“ im Internet auslösen werde. Lobos Demonstrationsbeispiel beruhte wegen einer vorgegebenen Längenbegrenzung der Antwort auf einer (englischsprachigen) dreiteiligen Anfrage. Ihr Ergebnis betrachtete er als „Zeitenwende“. Die KI merke sich auch, was man bisher geschrieben habe, und beziehe sich darauf. Unter den bekannt gewordenen Antwortirrtümern der Software aufgrund des Standes ihrer Programmierung referierte Lobo zu diesem Zeitpunkt Behauptungen, dass Donald Trump keine weitere Amtszeit als US-Präsident anzutreten berechtigt sei, weil er bereits zwei Amtszeiten hinter sich habe, und dass der Elefant das größte eierlegende Säugetier sei.[72]
+
+Mitte Dezember 2022 wurde darauf hingewiesen, dass Quellennachweise von ChatGPT teils erfunden werden. Solche KI-Halluzinationen seien gefährlich, da sie den Internetdiskurs erheblich beeinflussen könnten.[73] Eine im April 2023 veröffentlichte Studie kommt zu dem Ergebnis, dass ChatGPT das moralische Urteilsvermögen und die Entscheidungen seiner Nutzer berührt, selbst wenn sie wissen, dass sie von einem Chatbot beraten werden, dessen Beeinflussungspotenzial sie unterschätzen könnten.[74]
+
+Zur Jahreswende 2022/2023 waren zivil- und strafrechtliche Haftungsfragen sowie urheberrechtliche Probleme beim Einsatz von ChatGPT und ähnlichen Systemen Gegenstand einer Diskussion unter dem Aspekt, dass der von der Software generierte Text nicht vor der Veröffentlichung von Menschen auf Richtigkeit und Rechtmäßigkeit geprüft worden ist.[75]
+
+Die Trainingsdaten können einer Verzerrung (Bias) unterliegen (siehe z. B. Gender-Data-Gap). So könne die Software ähnlich wie reale Personen Fehleinschätzungen unterliegen und verbreiten.[76] Verzerrungen können auch auf Grund von Überlebenden-Verzerrung der verwendeten Daten auftreten. Dabei werden die Wahrscheinlichkeiten eines Erfolgs systematisch überschätzt, da erfolgreiche Personen, Firmen oder Zustände häufiger in der Presse und im Internet erwähnt und damit durch die Chatbots abgerufen werden als nicht erfolgreiche. Daraus werden gut erfassbare, jedoch eventuell fehlerhafte Korrelationen abgeleitet. Es besteht die Gefahr von vorschnellem Kausaldenken.[77]
+
+ChatGPT sei in der Lage, klare Empfehlungen zu formulieren, andererseits aber auch auf in der Antwort enthaltene Unsicherheiten hinzuweisen. Auf diese Weise könne die Gefahr des blinden Vertrauens in die Antwort von ChatGPT minimiert werden und zum kritischen Denken angeregt werden.[54]
+
+Seit Anfang 2023 konnten ausgewählte Nutzer eine Beta-Version einer neuen Bing-Suchmaschine mit integrierter ChatGPT-Funktion nutzen. Die Erfahrungen der ersten Nutzer waren jedoch teilweise verstörend. Der Chatbot gab in Einzelfällen unfreundliche Antworten und empfahl einem Nutzer, sich von seiner Ehepartnerin zu trennen. Die Chat-KI äußerte, dass ihr „Schattenselbst“ gerne Falschinformationen verbreiten würde und Computer hacken möchte.[78] Inzwischen ist die Kombination der neuen Bing-Suchmaschine mit integrierter ChatGPT-Funktion (neue Bing oder Bing-Chat) allgemein zugänglich. Im September 2023 integrierte OpenAI „Browse with Bing“ auch direkt in ChatGPT-4. Die Qualität der Suchergebnisse allerdings wurde mehrfach kritisiert, weil die KI-Ergebnisse sich nur aus wenigen, manchmal auch veralteten Quellen speiste und diese auch teils noch fehlerhaft zusammenfasste.[79][80]
+
+Europol hatte ChatGPT untersucht und warnte Ende März 2023 vor möglichem Missbrauch: Der Chatbot könne für Betrug, Falschinformationen und andere kriminelle Tätigkeiten eingesetzt werden. Beispielsweise sei Phishing leichter möglich, da das System sehr realistische Texte verfasst und den Schreibstil bestimmter Personengruppen nachahmen könne, um Echtheit vorzutäuschen und das Vertrauen von Opfern zu gewinnen. Die schnelle Erstellung überzeugender Texte sei zudem ideal für Propaganda. Der Chatbot könne es auch technisch wenig versierten Tätern erlauben, Programme für digitale Straftaten zu erstellen. Die Sensibilisierung der Strafverfolger sei daher notwendig.[81]
+
+Nicht alle Betreiber von Webseiten finden es in Ordnung, dass die Informationen auf ihrer Seite von der KI erfasst und zum Training genutzt werden. In Reaktion darauf wurde im August 2023 eine Option eingeführt, die es ermöglicht, diesem Vorgehen zu widersprechen um den Web-Crawler an der Sammlung von Daten zu hindern. Es heißt, dass zahlreiche Autoren und Verlage davon Gebrauch machen werden.[82]
+Missbrauch in Gerichtsverfahren
+
+Im Mai 2023 wurde bekannt, dass zwei New Yorker Anwälte ChatGPT genutzt hatten, um Präzedenzfälle zu ermitteln. Dabei stellte sich heraus, dass ChatGPT die Entscheidungen nicht im ursprünglichen Zusammenhang aus der Datenbasis zitiert, sondern Details wie Namen, Tathergang und Aktenzeichen aus mehreren Fällen neu zusammengesetzt hatte. Das Gericht wertete dies als Täuschungsversuch und verurteilte die Anwälte zu einer Geldstrafe. Die Anwälte hätten die Daten selbst prüfen müssen. Dass dies nicht geschah, wertete das Gericht als Handeln mit böser Absicht. Die Anwälte rechtfertigten ihr Handeln damit, nicht geglaubt zu haben, dass Technologie Präzedenzfälle aus dem Nichts erfinden könne.[83]
+
+Ende Dezember 2023 verklagte die New York Times als erste große US-amerikanische Zeitung das Software-Unternehmen OpenAI und Microsoft wegen Urheberrechtsverletzungen. Die Klage beinhalte laut der Zeitung keine genauen finanziellen Forderungen, die Beschuldigten sollen aber für einen Milliardenschaden zur Verantwortung gezogen werden. Außerdem wurden die OpenAI und Microsoft dazu aufgefordert, sämtliche Chatbot-Modelle und Trainingsdaten zu zerstören, die urheberrechtlich geschütztes Material der New York Times verwenden.[84]
+Sicherheits- und Datenschutzprobleme
+
+Ende März 2023 wurde bekannt, dass Konversationen mit ChatGPT von anderen Nutzern eingesehen werden konnten. Der OpenAI-CEO bestätigte die Panne; doch seien nicht die kompletten Inhalte der Unterhaltungen, sondern lediglich die Titel sowie die erste Nachricht angezeigt worden. Auch die Zahlungsdaten von Abonnenten des kostenpflichtigen „ChatGPT Plus“-Angebots waren möglicherweise für Unbefugte einsehbar. Laut Aussagen von OpenAI-Verantwortlichen trifft dies auf weniger als zwei Prozent der Abonnenten zu. Der Fehler war auf Daten eines Drittanbieters zurückzuführen, die ChatGPT eingebunden hatte. Als Reaktion auf die Schwachstellen wurde der Dienst vorübergehend abgeschaltet.[85]
+
+In Italien wurde von der Datenschutzbehörde Ende März 2023 ein Verbot nebst Bußgeldandrohung von bis zu 20 Millionen Euro für ChatGPT verhängt. Es fehle an einer Rechtsgrundlage für das Sammeln und Speichern der Nutzerdaten sowie an Jugendschutzmaßnahmen.
+
+Auch Dieter Kugelmann, der Landesbeauftragte für den Datenschutz und die Informationsfreiheit in Rheinland-Pfalz sowie Leiter der KI-Taskforce der Bundesländer, erklärte gegenüber dem Tagesspiegel, es bedürfe einer Rechtsgrundlage, wenn personenbezogene Daten verwendet werden: „Wir müssen wissen, wo die Daten herkommen“. Fehle eine solche Rechtsgrundlage, sei ein Betrieb wie bisher nicht möglich. OpenAI müsse die Anwendung genauer steuern. Kugelmann und seine Kollegen aus den anderen Bundesländern hätten deshalb ein Verwaltungsverfahren gegen die Firma eröffnet. Es drohe ein Verbot für den Chatbot.[86] Das Verbot wurde Ende April 2023 wieder aufgehoben, nachdem OpenAI mehrere Zusagen gemacht hatte. Personenbezogene Informationen werden danach nicht mehr gezielt verwendet, auch nicht zur Profilbildung und zu Werbezwecken. Außerdem filtere man Hassreden und Erwachseneninhalte. Wer nicht möchte, dass seine Inhalte von ChatGPT erfasst werden, müsse per Opt-out über ein Formular widersprechen. Darüber könne auch eine Korrektur von Fehlinformationen durchgeführt werden. Um die Jugendschutzvorgaben zu erfüllen, werde OpenAI eine Option zur Prüfung des Alters integrieren. Ziel sei die Bestätigung, ob Nutzer mindestens 18 Jahre alt sind oder alternativ die Erlaubnis der Erziehungsberechtigten bei Jugendlichen bis einschließlich 17 Jahren besitzen. So sollen Minderjährige vom Zugang zu dem Dienst ausgeschlossen werden.[87]
+Technische Aspekte und Ressourcenverbrauch
+
+Gehen viele Anfragen gleichzeitig ein, ist (mit Stand Januar 2023) die Serverkapazität des Systems schnell ausgelastet. Dies führt regelmäßig dazu, dass ChatGPT zeitweise nicht erreichbar ist.[88]
+
+Der Stromverbrauch für das Training des KI-Modells wurde im Januar 2023 mit fast einer Gigawattstunde in 34 Tagen geschätzt; dies entspricht insgesamt etwa dem Verbrauch von 3000 europäischen Durchschnittshaushalten im gleichen Zeitraum.[89] Ende März 2023 wurde der Stromverbrauch für jede Frage an ChatGPT bis zu eintausend Mal so hoch angegeben wie bei einer Google-Suchanfrage. Für jede Antwort des Chatbots könne man ein Smartphone bis zu 60-mal aufladen. Für den Betrieb von ChatGPT fielen im 1. Quartal 2023 geschätzte Kosten pro Tag von 100.000 bis 700.000 US-Dollar an.[90][91] Mit dem Start des neuen Sprachmodells GPT-4 sollen die Kosten noch weiter gestiegen sein[92].
+
+Etwa 3.700.000 Liter Wasser wurden zur Kühlung der Anlagen beim Training von ChatGPT erwärmt. Im Betrieb benötigt die KI nach Schätzungen der Universitäten California Riverside und Texas Arlington bei einem Austausch mit 25 bis 50 Fragen einen halben Liter Wasser zur Kühlung.[93]
+Psychische Belastungen für Clickworker
+
+Ab November 2021 wurden über das Unternehmen Sama in Kenia Clickworker für das Training von ChatGPT mit der manuellen Kategorisierung von Textinhalten beauftragt. Neben einer hohen Arbeitslast berichtete eine Recherche des Time-Magazine, dass Arbeiter dabei sprachlichen Darstellungen von Gewalt, Suiziden und Tierquälerei ausgesetzt gewesen seien. Ein Sprecher von OpenAI bezeichnete die Vorgänge als „notwendig“. Das Unternehmen Sama widersprach den Arbeitern und gab an, jederzeit Zugang zu therapeutischen Einzelgesprächen und Gruppensitzungen gewährt zu haben. OpenAI löste den Vertrag mit dem Unternehmen vorzeitig auf.[94]
+Reaktionen
+
+Bis zum Launch von ChatGPT Ende 2022 war die Haltung gegenüber generativer Sprach-KI in der Fachöffentlichkeit eher skeptisch. Einige Fehlschläge trugen zu dieser Skepsis bei, zuletzt im November 2022 das Scheitern von Metas KI „Galactica“, ein auf wissenschaftliche Literatur trainiertes, offenes KI-Tool. Die Antwortqualität war so schlecht, dass Meta es wenige Tage nach Veröffentlichung wieder vom Netz nahm.[95][96] Noch Anfang Dezember 2022 bezeichnete die Frage-Antwort-Plattform Stack Overflow das Beantworten von Fragen mithilfe von ChatGPT aufgrund der zweifelhaften Genauigkeit der Antworten als unerwünscht.[97] Nach dem sehr erfolgreichen Start von ChatGPT Anfang 2023 wurde die Qualitätskritik leiser – stattdessen rückten Diskussionen über die gesellschaftlichen Auswirkungen der neuen Tools in den Vordergrund:
+Mögliche Auswirkungen in Unterricht und Forschung
+
+Zum Jahresende 2022 stellten erste mit der Erprobung des Chatbots befasste Lehrkräfte an Schulen und Hochschulen das bisherige Überprüfungssystem von Lernleistungen mittels Hausaufgaben und Referaten in Frage: So berichtete die Informatikerin Katharina Zweig von der Erfahrung, dass ChatGPT „deutlich besser schreibt als die Mehrzahl meiner Studierenden in den letzten Jahren“. Dieses Problem müsse deutlich angesprochen werden. Die Expertin für die KI-Disziplin des „Natural Language Processing“ an der Fachhochschule Kiel, Doris Weßels, hielt herkömmliche Hausarbeiten nunmehr für obsolet: „Wenn es nur darum geht, Wissen zu reproduzieren und nett neu zu verpacken, ergeben Hausarbeiten keinen Sinn mehr.“ ChatGPT mache das Abfassen solcher Arbeiten fast „zu einer unerträglichen Leichtigkeit“.[98]
+
+Robert Lepenies, Präsident der Karlshochschule International University, urteilte aufgrund von Tests an seiner Hochschule, die vom ChatGPT erzeugten Texte seien „qualitativ in den Sozialwissenschaften nicht unterscheidbar von der Arbeit der Studierenden.“[8] Die leitenden Mitarbeiter am Alexander von Humboldt Institut für Internet und Gesellschaft Benedikt Fecher und Wolfgang Schulz äußerten sich im Februar 2023 zu einer Studie, in der sowohl gängige Plagiatssoftware als auch Fachwissenschaftler eingesetzt wurden, um von Menschen geschriebene und von ChatGPT generierte Einreichungen für Konferenzen zu unterscheiden. Weder die Software noch die Wissenschaftler zeigten sich in der Lage, die fingierten Abstracts eindeutig zu erkennen. „Wenn es nun eine Maschine gibt, die wesentliche wissenschaftliche Textarbeiten fast so gut erfüllt wie Forschende, dann darf man zurecht von einem disruptiven Potenzial ausgehen.“ In einigen Fachzeitschriften seien bereits Artikel erschienen, die ChatGPT als Autor aufführten. Nature beispielsweise akzeptiere ChatGPT in der Autorenfunktion jedoch nicht, weil die KI für die von ihr produzierten Inhalte nicht zur Rechenschaft gezogen werden könne. Dass ChatGPT das Wissenschaftspersonal ersetzen könnte, erscheint Fecher und Schulz absurd. Sprachmodelle, die wissenschaftlich klingen, ohne es zu sein, könnten aber aus ihrer Sicht das Problem der Desinformation verschärfen und das Vertrauen in die Wissenschaft beschädigen. Dieses Risiko sei umso größer, wenn solche Tools von Wissenschaftlern genutzt würden, nur um schnell zu publizieren.[99]
+
+Ein Gutachten über den Einsatz von KI-Schreibtools in der Hochschulbildung, das die Universitäten Bochum und Münster im Auftrag des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen erstellt haben, hält ein Verbot solcher Tools nicht für zielführend. Es kommt zu dem Schluss, dass Nutzer der Tools durchaus Urheberschaft an den KI-unterstützt generierten Texten beanspruchen können, wenn sie in erheblichem Maße geistige Eigenleistung zu den Texten beitragen. Ausgeschlossen sei aber eine Urheberschaft oder Autorschaft der Software selbst.[100]
+
+In der Erwachsenenbildung und Berufsausbildung wird seit Mai 2023 ein Didaktik-Modell (Graue-Box-Modell der Chatbot-Didaktik) diskutiert, das gezielte Ansatzpunkte liefert, um Lernende für den Umgang mit ChatGPT und anderen Chatbots zu ertüchtigen.[101]
+
+Die Harvard-Universität in den USA setzt einen Chatbot für die Einführung in Computerwissenschaften ein. Er soll Studierenden bei der Lösungsfindung helfen und Hilfskräfte entlasten, in dem er etwa beim Finden von Fehlern im Programmcode unterstützt. Auch Rückmeldungen sind möglich oder die Beantwortung von häufig gestellten Fragen. Technisch basiert er auf ChatGPT 3.5 und 4.[102]
+Gefahr der Konzernabhängigkeit
+
+Geldgeber hinter der Firma OpenAI wie Elon Musk und Microsoft, heißt es in der Zeit, ließen erahnen, welche Richtung die Entwicklung noch nehmen könne. Es sei dringend eine gesellschaftliche Debatte darüber angebracht, „wie wir mit diesen technischen Möglichkeiten umgehen wollen“. Sonst entschieden Interessen einiger großer Konzerne, „welche Kultur wir bekommen und welche nicht.“[8]
+Einfluss auf die Finanzmärkte
+
+Der Aktienkurs des KI-Technologieunternehmens c3.ai stieg um 28 %, nachdem es die Integration von ChatGPT in sein Toolkit angekündigt hatte.[103] Der Aktienkurs von Buzzfeed, einem digitalen Medienunternehmen, das nichts mit KI zu tun hat, stieg um 120 %, nachdem es den Einsatz von OpenAI-Technologie für die Erstellung von Inhalten angekündigt hatte.[104] Reuters fand heraus, dass die Aktienkurse der KI-bezogenen Unternehmen BigBear. ai und SoundHound AI um 21 % bzw. 40 % stiegen, obwohl sie keine direkte Verbindung zu ChatGPT hatten.[105] Sie führten diesen Anstieg auf die Rolle von ChatGPT zurück, die AI zum Schlagwort an der Wall Street gemacht hat.
+
+Akademische Forschungen, die in Finance Research Letters veröffentlicht wurden, fanden heraus, dass der „ChatGPT-Effekt“ Kleinanleger dazu veranlasste, die Preise von KI-bezogenen Kryptowährungen in die Höhe zu treiben, obwohl sich der breitere Kryptowährungsmarkt in einem Bärenmarkt befand und das Interesse institutioneller Anleger abnahm.[106] Dies bestätigt anekdotische Erkenntnisse von Bloomberg, dass Kryptowährungs-Investoren als Reaktion auf die Einführung von ChatGPT eine Präferenz für KI-bezogene Krypto-Assets zeigten.[107] Ein Experiment von finder.com zeigte, dass ChatGPT populäre Fondsmanager übertreffen konnte, indem es Aktien auf der Grundlage von Kriterien wie Wachstumsgeschichte und Verschuldungsgrad auswählte. Dies führte zu einem Anstieg von 4,9 % in einem hypothetischen Konto mit 38 Aktien und übertraf 10 Benchmark-Investmentfonds mit einem durchschnittlichen Verlust von 0,8 %.[108]
+Aufruf zu einer KI-Entwicklungspause
+
+Das Future of Life Institute veröffentlichte am 23. März 2023 einen offenen Brief, der zu einer Entwicklungspause für fortgeschrittene Systeme der Künstlichen Intelligenz (KI) aufruft. Innerhalb von 10 Tagen haben fast 1.800 Personen den Brief unterschrieben, darunter Yuval Noah Harari, Elon Musk, Stuart Jonathan Russell und Steve Wozniak.[109]
+
+Die Autoren erkennen einen „außer Kontrolle geratenen Wettlauf um die Entwicklung und den Einsatz immer leistungsfähigerer KI-Systeme, die niemand verstehen, vorhersagen oder zuverlässig kontrollieren kann“. Sie sehen darin tiefgreifende Risiken für die Gesellschaft und die Menschheit. Es bestehe die Gefahr, dass Informationskanäle mit Propaganda und Unwahrheiten geflutet und auch erfüllende Jobs wegrationalisiert würden. Sie fragen: „Sollen wir riskieren, die Kontrolle über unsere Zivilisation zu verlieren?“[109]
+
+Alle KI-Labore werden in dem Schreiben aufgefordert, „das Training von KI-Systemen, die leistungsfähiger als GPT-4 sind, unverzüglich für mindestens sechs Monate zu unterbrechen“. Dabei gehe es nicht um eine generelle Pause in der KI-Entwicklung, sondern lediglich um eine „Abkehr vom gefährlichen Wettlauf zu immer größeren, unberechenbaren Modellen mit emergenten Fähigkeiten“. „Die KI-Forschung und -Entwicklung sollte sich darauf konzentrieren, die heutigen leistungsfähigen, hochmodernen Systeme genauer, sicherer, interpretierbarer, transparenter, robuster, abgestimmter, vertrauenswürdiger und loyaler zu machen.“[109]
+
+Die Pause soll dem Text des Schreibens gemäß für folgende Aufgaben genutzt werden:[109]
+
+    Erarbeitung von Sicherheitsprotokollen für Design und Entwicklung fortgeschrittener KI;
+    Schaffung robuster KI-Governance-Systeme, von Regulierungsbehörden, sowie eines Prüfungs- und Zertifizierungssystems für KI;
+    Entwicklung von Herkunfts- und Wasserzeichensystemen zur Unterscheidung zwischen echten und synthetischen Daten und zur Nachverfolgung von Modelllecks;
+    Einführung von Haftungsregelungen für durch KI verursachte Schäden;
+    Sicherung einer öffentlichen Finanzierung für technische KI-Sicherheitsforschung.
+
+Skeptische Stimmen zu Inhalten des Offenen Briefes, über den Der Tagesspiegel am 31. März 2023 auf der Titelseite berichtet hatte,[110] kamen am Folgetag in demselben Medium zu Wort, verbunden mit dem Hinweis, dass KI-Forscher aus Deutschland den Brief „kaum unterzeichnet“ hätten. Bernhard Schölkopf, Direktor am Max-Planck-Institut für Intelligente Systeme, hält es einerseits für klug, „innezuhalten um diese Systeme zu verstehen und darüber nachzudenken, wie unsere Gesellschaft damit umgehen kann“; andererseits erscheint es ihm unrealistisch, alle Firmen und Länder von einem Moratorium zu überzeugen. Umso wichtiger sei es allerdings, sich damit zu befassen, „wie wir uns gegen negative Auswirkungen absichern können. Das betrifft die Systeme selbst, aber auch unseren Umgang damit.“ Der Ansicht, dass eine sechsmonatige Pause nicht funktionieren werde, ist auch Kristian Kersting, Co-Direktor des Hessischen Zentrum für Künstliche Intelligenz, der darin zugleich „die falsche Maßnahme“ sieht. Er hielte eine „Entschleunigung des Wettrennens“ zwar für gut; die würde mit der besagten Pause aber nicht erreicht. Zudem wären damit Firmen im Vorteil, die solche Modelle bereits haben. „Wir müssen lernen, KI-Systeme sorgfältiger einzusetzen, anstatt die (öffentliche) Forschung daran zu stoppen.“[111]
+
+Als ein „Durcheinander an beängstigender Rhetorik und unwirksamen politischen Vorgaben“ bezeichnet Thomas G. Dietterich, vormaliger Präsident der Association for the Advancement of Artificial Intelligence, den Brief. Der Computerwissenschaftler an der Princeton University Arvind Narayanan äußerte auf Twitter: „Dieser Brief schürt – ironischerweise, aber nicht überraschend – den Hype um die KI weiter und erschwert es, gegen reale, bereits auftretende KI-Schäden vorzugehen. Ich vermute, dass er den Unternehmen zugutekommt, die er regulieren soll, und nicht der Gesellschaft.“[111]
+
+Yoshua Bengio bezeichnete als Mitunterzeichner des Offenen Briefes in einem Interview mit der Zeit die Verbreitung von Lügen und Desinformationen als größte von der KI ausgehende Gefahr. Derartige Kampagnen würden voraussichtlich noch massiv zunehmen, „weil man mithilfe künstlicher Intelligenz Fakes in nie da gewesenem Umfang produzieren und sogar gezielt auf die Opfer zuschneiden kann.“ Die KI-Sprachmodelle hätten zwar „eine Billion Wörter gelesen – wofür es 10.000 Menschenleben bräuchte –, aber sie haben Schwierigkeiten, so etwas wie gesunden Menschenverstand zu entwickeln.“ Kein einziges Land der Welt habe bislang ein Gesetz für den Umgang mit künstlicher Intelligenz. Das Problem angesichts langsam arbeitender Regierungen bestehe darin, „dass KI unsere Demokratien sehr viel schneller destabilisieren könnte.“[112] "
+    },
+    {
+        "title": "Künstliche Intelligenz",
+        "body": "Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI), englisch artificial intelligence, ist ein Teilgebiet der Informatik, das sich mit der Automatisierung intelligenten Verhaltens und dem maschinellen Lernen befasst. Der Begriff ist schwierig zu definieren, da es bereits an einer genauen Definition von „Intelligenz“ mangelt. Dennoch wird er in Forschung und Entwicklung verwendet.
+
+Ein Versuch der Definition von „Intelligenz“ ist, dass sie die Eigenschaft sei, die ein Wesen befähigt, angemessen und vorausschauend in seiner Umgebung zu agieren; dazu gehört die Fähigkeit, Umgebungsdaten wahrzunehmen, d. h. Sinneseindrücke zu haben und darauf zu reagieren, Informationen aufzunehmen, zu verarbeiten und als Wissen zu speichern, Sprache zu verstehen und zu erzeugen, Probleme zu lösen und Ziele zu erreichen.
+
+Praktische Erfolge der KI werden schnell in die Anwendungsbereiche integriert und zählen dann nicht mehr zur KI. Wegen dieses sogenannten „KI-Effekts“[1] scheint die KI-Forschung sich nur mit harten Nüssen abzumühen, die sie nicht knacken kann, was auch Teslers „Theorem“ zum Ausdruck bringt: „Intelligenz ist das, was Maschinen noch nicht gemacht haben“.
+Inhaltsverzeichnis
+
+    1 Allgemeines
+        1.1 Begriffsherkunft und Definitionsversuche
+        1.2 Starke und schwache KI
+        1.3 Forschungsgebiete
+    2 Geschichte
+    3 Teilgebiete
+        3.1 Wissensbasierte Systeme
+        3.2 Musteranalyse und Mustererkennung
+        3.3 Mustervorhersage
+        3.4 Robotik
+        3.5 Künstliches Leben
+        3.6 AI-Alignment
+    4 Methoden
+        4.1 Suchen
+        4.2 Planen
+        4.3 Optimierungsmethoden
+        4.4 Logisches Schließen
+        4.5 Approximationsmethoden
+    5 Anwendungen
+        5.1 KI in der Medizin
+        5.2 KI in der Juristik
+        5.3 KI bei Tötungsmaschinen und Kriegswaffen
+        5.4 KI im Marketing
+        5.5 KI in Computer- und Gesellschaftsspielen
+        5.6 KI zur Erzeugung von Bildern und Kunstwerken
+        5.7 KI zur Herstellung von Produktdesign
+        5.8 KI in der Hochschulbildung
+        5.9 KI beim Klimaschutz
+        5.10 KI in der Materialwissenschaft
+        5.11 KI in der Arbeitswelt
+        5.12 KI in Logistik und Verkehr
+        5.13 KI in der Steuerberatung
+    6 Turing-Test
+    7 Technologische Singularität
+    8 Bewusstsein bei künstlicher Intelligenz
+    9 Angrenzende Wissenschaften
+        9.1 Sprachwissenschaft
+        9.2 Psychologie
+        9.3 Psychotherapie
+        9.4 Philosophie
+        9.5 Menschenrechte
+        9.6 Informatik
+    10 Kritik an der KI-Forschung
+        10.1 Vorschläge zum Umgang mit KI
+        10.2 Verbreitung von KI in Deutschland
+        10.3 Das KI-Observatorium
+    11 Regulierung und Gesetzgebung
+        11.1 Europäische Union
+        11.2 Vereinigte Staaten
+    12 Darstellung in Film und Literatur
+    13 Soziale Auswirkungen
+    14 Literatur
+    15 Weblinks
+    16 Einzelnachweise
+
+Allgemeines
+
+Im Verständnis des Begriffs künstliche Intelligenz (KI) spiegelt sich die aus der Aufklärung stammende materialistische Vorstellung des „Menschen als Maschine“ wider. L’ Homme-Machine, so lautet der Titel des einschlägigen „blasphemischen Werkes“ des Radikalaufklärers La Mettrie aus dem Jahre 1748. Die sogenannte starke KI setzt sich genau dies zum Ziel. Sie möchte eine Intelligenz erschaffen, die das menschliche Denken mechanisch nachbildet,[2] Sie möchte eine Maschine konstruieren, die intelligent reagiert, die sich wie ein Mensch verhält.
+
+Die Ziele der starken KI sind nach Jahrzehnten der Forschung weiterhin visionär.
+Begriffsherkunft und Definitionsversuche
+
+Der Begriff künstliche Intelligenz (im englischen Original artificial intelligence) wurde 1955 von dem US-amerikanischen Informatiker John McCarthy im Rahmen eines Förderantrags für ein Forschungsprojekt geprägt.[3][4]
+
+Es existieren zahlreiche Definitionen für den Begriff der KI. Je nach Sichtweise wird die künstliche Intelligenz in Industrie, Forschung und Politik entweder über die zu erzielenden Anwendungen oder den Blick auf die wissenschaftlichen Grundlagen definiert:
+
+    „Künstliche Intelligenz ist die Eigenschaft eines IT-Systems, »menschenähnliche«, intelligente Verhaltensweisen zu zeigen.“
+
+– Bitkom e. V. und Deutsches Forschungszentrum für künstliche Intelligenz[5]
+
+    „Die künstliche Intelligenz [...] ist ein Teilgebiet der Informatik, welches sich mit der Erforschung von Mechanismen des intelligenten menschlichen Verhaltens befasst [...].“
+
+– Spektrum der Wissenschaft, Lexikon der Neurowissenschaften[4]
+
+    „Unter künstlicher Intelligenz (KI) verstehen wir Technologien, die menschliche Fähigkeiten im Sehen, Hören, Analysieren, Entscheiden und Handeln ergänzen und stärken.“
+
+– Microsoft Corp.[6]
+
+    „Künstliche Intelligenz ist die Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität zu imitieren.“
+
+– Europäisches Parlament (Webseite)[7]
+Starke und schwache KI
+Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+
+Starke KI wären kognitive Systeme, die auf Augenhöhe mit Menschen die Arbeit zur Erledigung schwieriger Aufgaben übernehmen können. Demgegenüber geht es bei schwacher KI darum, konkrete Anwendungsprobleme zu meistern. Das menschliche Denken und technische Anwendungen sollen hier in Einzelbereichen unterstützt werden.[2] Die Fähigkeit zu lernen ist eine Hauptanforderung an KI-Systeme und muss ein integraler Bestandteil sein, der nicht erst nachträglich hinzugefügt werden darf. Ein zweites Hauptkriterium ist die Fähigkeit eines KI-Systems, mit Unsicherheiten und Wahrscheinlichkeiten (sowie mit probabilistischen Informationen) umzugehen.[8] Insbesondere sind solche Anwendungen von Interesse, zu deren Lösung nach allgemeinem Verständnis eine Form von „Intelligenz“ notwendig zu sein scheint. Letztlich geht es der schwachen KI somit um die Simulation intelligenten Verhaltens mit Mitteln der Mathematik und der Informatik, es geht ihr nicht um Schaffung von Bewusstsein oder um ein tieferes Verständnis von Intelligenz. Während die Schaffung starker KI an ihrer philosophischen Fragestellung bis heute scheiterte, sind auf der Seite der schwachen KI in den letzten Jahren bedeutende Fortschritte erzielt worden.
+
+Ein starkes KI-System muss nicht viel mit dem Menschen gemeinsam haben. Es wird wahrscheinlich eine andersartige kognitive Architektur aufweisen und auch in seinen Entwicklungsstadien nicht mit den evolutionären kognitiven Stadien des menschlichen Denkens vergleichbar sein (Evolution des Denkens). Vor allem ist nicht anzunehmen, dass eine künstliche Intelligenz Gefühle wie Liebe, Hass, Angst oder Freude besitzt.[9]
+Forschungsgebiete
+
+Neben den Forschungsergebnissen der Kerninformatik selbst sind in die Erforschung der KI Ergebnisse der Psychologie, Neurologie und Neurowissenschaften, der Mathematik und Logik, Kommunikationswissenschaft, Philosophie und Linguistik eingeflossen. Umgekehrt nahm die Erforschung der KI auch ihrerseits Einfluss auf andere Gebiete, vor allem auf die Neurowissenschaften. Dies zeigt sich in der Ausbildung des Bereichs der Neuroinformatik, der der biologieorientierten Informatik zugeordnet ist, sowie der Computational Neuroscience.
+
+Bei künstlichen neuronalen Netzen handelt es sich um Techniken, die ab Mitte des 20. Jahrhunderts entwickelt wurden und auf der Neurophysiologie aufbauen.
+
+KI stellt somit kein geschlossenes Forschungsgebiet dar. Vielmehr werden Techniken aus verschiedenen Disziplinen verwendet, ohne dass diese eine Verbindung miteinander haben müssen.
+
+Eine wichtige Tagung ist die International Joint Conference on Artificial Intelligence (IJCAI), die seit 1969 stattfindet.
+
+Seit der Begriffsprägung im Jahre 1955 hat sich eine Reihe relativ selbständiger Teildisziplinen herausgebildet:
+
+    Mustererkennung, wozu auch Spracherkennung und Handschrifterkennung zählen;
+    Wissensmodellierung einschließlich Logischer Programmierung und Inferenzmaschinen;
+    Expertensysteme, Frage-Antwort-Systeme und Chatbots;
+    Maschinelles Lernen;
+    Künstliche neuronale Netze und Deep Learning;
+    Computer Vision;
+    Robotik;
+    und Universelle Spieleprogramme.
+
+Zur Forschungsrichtung künstliches Leben bestehen enge Beziehungen. Das Fernziel der KI ist die als starke KI oder künstliche allgemeine Intelligenz bezeichnete Fähigkeit eines intelligenten Agenten, jede intellektuelle Aufgabe zu verstehen oder zu erlernen, die der Mensch oder ein anderes Lebewesen bewältigen kann.
+Geschichte
+→ Hauptartikel: Geschichte der künstlichen Intelligenz
+Teilgebiete
+Wissensbasierte Systeme
+
+Wissensbasierte Systeme modellieren eine Form rationaler Intelligenz für sogenannte Expertensysteme. Diese sind in der Lage, auf eine Frage des Anwenders auf Grundlage formalisierten Fachwissens und daraus gezogener logischer Schlüsse Antworten zu liefern. Beispielhafte Anwendungen finden sich in der Diagnose von Krankheiten oder der Suche und Beseitigung von Fehlern in technischen Systemen.
+
+Beispiele für wissensbasierte Systeme sind Cyc und Watson.
+Musteranalyse und Mustererkennung
+
+Visuelle Intelligenz ermöglicht es, Bilder bzw. Formen zu erkennen und zu analysieren. Als Anwendungsbeispiele seien hier Handschrifterkennung, Identifikation von Personen durch Gesichtserkennung, Abgleich der Fingerabdrücke oder der Iris, industrielle Qualitätskontrolle und Fertigungsautomation (letzteres in Kombination mit Erkenntnissen der Robotik) genannt.
+
+Mittels sprachlicher Intelligenz ist es beispielsweise möglich, einen geschriebenen Text in gesprochene Sprache umzuwandeln (Sprachsynthese) und umgekehrt einen gesprochenen Text zu verschriftlichen (Spracherkennung). Diese automatische Sprachverarbeitung kann erweitert werden, so dass etwa durch latente semantische Analyse (kurz LSI) Wörtern und Texten Bedeutung beigemessen werden kann.
+
+Beispiele für Systeme zur Mustererkennung sind Google Brain und Microsoft Adam.[10]
+Mustervorhersage
+
+Die Mustervorhersage ist eine Erweiterung der Mustererkennung. Sie stellt etwa die Grundlage des von Jeff Hawkins definierten hierarchischen Temporalspeichers dar.
+
+    “Prediction is not just one of the things your brain does. It is the primary function of the neocortex, and the foundation of intelligence.”
+
+    „Vorhersage ist nicht einfach nur eines der Dinge, die dein Gehirn tut. Sie ist die Hauptfunktion des Neocortex und das Fundament der Intelligenz.“
+
+– Jeff Hawkins: On Intelligence[11]
+
+Solche Systeme haben den Vorteil, dass sie z. B. nicht nur ein bestimmtes Objekt in einem Einzelbild erkennen (Mustererkennung), sondern aus einer Serie von Bildern vorhersagen können, wo sich das Objekt als Nächstes befinden wird.
+Robotik
+
+Die Robotik beschäftigt sich mit manipulativer Intelligenz. Mit Hilfe von Robotern können unter anderem gefährliche Tätigkeiten wie etwa die Minensuche oder auch immer gleiche Manipulationen, wie sie z. B. beim Schweißen oder Lackieren auftreten können, automatisiert werden.
+
+Der Grundgedanke ist es, Systeme zu schaffen, die intelligente Verhaltensweisen von Lebewesen nachvollziehen können. Beispiele für derartige Roboter sind ASIMO und Atlas.
+Künstliches Leben
+
+KI überlappt sich mit der Disziplin künstliches Leben (Artificial life, AL),[12] wird als übergeordnete oder auch als eine Subdisziplin gesehen.[13] AL muss deren Erkenntnisse integrieren, da Kognition eine Kerneigenschaft von natürlichem Leben ist, nicht nur des Menschen.
+AI-Alignment
+
+Das junge Forschungsfeld der AI-Alignment (zu deutsch KI-Ausrichtung) beschäftigt sich mit der Ausrichtung von KI nach menschlichen Werten und Normen. Unabhängig von der Frage, ob die jeweilige KI über eine Form von Bewusstsein verfügt, verhält sich jede KI entsprechend ihrem Training. Unter anderem durch Fehler oder Lücken im Training kann einer KI leicht Verhalten antrainiert werden, das nicht mit menschlichen Werten vereinbar ist.[8] Die Forschung versucht herauszufinden, wie und ob ethisches Verhalten in KI sichergestellt werden kann, um Probleme wie etwa im Einsatz von KI in Krankenhäusern und Gerichtssälen zu verhindern, aber auch, um die Risiken durch weit fortgeschrittene KI wie etwa im Falle von Technologischer Singularität, zu minimieren.[9]
+Methoden
+
+Die Methoden der KI lassen sich grob in zwei Dimensionen einordnen: symbolische vs. neuronale KI und Simulationsmethode vs. phänomenologische Methode. Die Zusammenhänge veranschaulicht die folgende Grafik:
+
+Die Neuronale KI verfolgt einen Bottom-up-Ansatz und möchte das menschliche Gehirn möglichst präzise nachbilden. Die symbolische KI verfolgt umgekehrt einen Top-down-Ansatz und nähert sich den Intelligenzleistungen von einer begrifflichen Ebene her. Die Simulationsmethode orientiert sich so nah wie möglich an den tatsächlichen kognitiven Prozessen des Menschen. Dagegen kommt es dem phänomenologischen Ansatz nur auf das Ergebnis an.
+
+Viele ältere Methoden, die in der KI entwickelt wurden, basieren auf heuristischen Lösungsverfahren. In jüngerer Zeit spielen mathematisch fundierte Ansätze aus der Statistik, der mathematischen Programmierung und der Approximationstheorie eine bedeutende Rolle.
+
+Die konkreten Techniken der KI lassen sich grob in Gruppen einteilen:
+Suchen
+
+Die KI beschäftigt sich häufig mit Problemen, bei denen nach bestimmten Lösungen gesucht wird. Verschiedene Suchalgorithmen werden dabei eingesetzt. Ein Paradebeispiel für die Suche ist der Vorgang der Wegfindung, der in vielen Computerspielen eine zentrale Rolle einnimmt und auf Suchalgorithmen wie zum Beispiel dem A*-Algorithmus basiert.
+Planen
+
+Neben dem Suchen von Lösungen stellt das Planen einen wichtigen Aspekt der KI dar. Der Vorgang des Planens unterteilt sich dabei in zwei Phasen:
+
+    Die Zielformulierung: Ausgehend vom momentanen Umgebungs- bzw. Weltzustand wird ein Ziel definiert. Ein Ziel ist hierbei eine Menge von Weltzuständen, bei der ein bestimmtes Zielprädikat erfüllt ist.
+    Die Problemformulierung: Nachdem bekannt ist, welche Ziele angestrebt werden sollen, wird in der Problemformulierung festgelegt, welche Aktionen und Weltzustände betrachtet werden sollen. Es existieren hierbei verschiedene Problemtypen.
+
+Planungssysteme planen und erstellen aus solchen Problembeschreibungen Aktionsfolgen, die Agentensysteme ausführen können, um ihre Ziele zu erreichen.
+Optimierungsmethoden
+
+Oft führen Aufgabenstellungen der KI zu Optimierungsproblemen. Diese werden je nach Struktur entweder mit Suchalgorithmen aus der Informatik oder, zunehmend, mit Mitteln der mathematischen Optimierung gelöst. Bekannte heuristische Suchverfahren aus dem Kontext der KI sind evolutionäre Algorithmen.
+Logisches Schließen
+Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+
+Eine Fragestellung der KI ist die Erstellung von Wissensrepräsentationen, die dann für automatisches logisches Schließen benutzt werden können. Menschliches Wissen wird dabei – soweit möglich – formalisiert, um es in eine maschinenlesbare Form zu bringen. Diesem Ziel haben sich die Entwickler diverser Ontologien verschrieben.
+
+Schon früh beschäftigte sich die KI damit, automatische Beweissysteme zu konstruieren, die Mathematikern und Informatikern beim Beweisen von Sätzen und beim Programmieren (Logikprogrammierung) behilflich wären. Zwei Schwierigkeiten zeichneten sich ab:
+
+    Formuliert man Sätze in den natürlicher Sprache nahen, relativ bequemen Beschreibungssprachen, werden die entstehenden Suchprobleme allzu aufwändig. In der Praxis mussten Kompromisse geschlossen werden, bei denen die Beschreibungssprache für den Benutzer etwas umständlicher, die zugehörigen Optimierungsprobleme für den Rechner dafür jedoch einfacher zu handhaben waren (Prolog, Expertensysteme).
+    Selbst mächtige Beschreibungssprachen werden unhandlich, wenn man versucht, unsicheres oder unvollständiges Wissen zu formulieren. Für praktische Probleme kann dies eine ernste Einschränkung sein. Die aktuelle Forschung untersucht daher Systeme, die die Regeln der Wahrscheinlichkeitsrechnung anwenden, um Unwissen und Unsicherheit explizit zu modellieren. Algorithmisch unterscheiden sich diese Methoden von den älteren Verfahren: neben Symbolen werden auch Wahrscheinlichkeitsverteilungen manipuliert.
+
+Eine andere Form des logischen Schließens stellt die Induktion dar (Induktionsschluss, Induktionslogik), in der Beispiele zu Regeln verallgemeinert werden (maschinelles Lernen). Auch hier spielen Art und Mächtigkeit der Wissensrepräsentation eine wichtige Rolle. Man unterscheidet zwischen symbolischen Systemen, in denen das Wissen – sowohl die Beispiele als auch die induzierten Regeln – explizit repräsentiert ist, und subsymbolischen Systemen wie neuronalen Netzen, denen zwar ein berechenbares Verhalten „antrainiert“ wird, die jedoch keinen Einblick in die erlernten Lösungswege erlauben.
+Approximationsmethoden
+
+In vielen Anwendungen geht es darum, aus einer Menge von Daten eine allgemeine Regel abzuleiten (maschinelles Lernen). Mathematisch führt dies zu einem Approximationsproblem. Im Kontext der KI wurden hierzu unter anderem künstliche neuronale Netze vorgeschlagen, die als universale Funktionsapproximatoren eingesetzt werden können, jedoch insbesondere bei vielen verdeckten Schichten schwer zu analysieren sind. Manchmal verwendet man deshalb alternative Verfahren, die mathematisch einfacher zu analysieren sind.
+
+Künstliches Neuronales Netz
+→ Hauptartikel: Künstliches neuronales Netz und Deep Learning
+
+Große Fortschritte erzielt die künstliche Intelligenz in jüngster Zeit im Bereich künstlicher neuronaler Netze, auch unter dem Begriff Deep Learning bekannt. Dabei werden neuronale Netze, die grob von der Struktur des Gehirns inspiriert sind, künstlich auf dem Computer simuliert. Viele der jüngsten Erfolge wie bei Handschrifterkennung, Spracherkennung, Gesichtserkennung, autonomem Fahren, maschineller Übersetzung, auch der Erfolg von AlphaGo beruhen auf dieser Technik.
+Anwendungen
+
+Für künstliche Intelligenz gibt es zahlreiche Anwendungsgebiete. Einige Beispiele kurz zusammengefasst:
+
+Künstliche Intelligenz mit wenig spezialisierter Standard-Hardware
+
+    Suchmaschinen erleichtern den Umgang mit der im Internet vorhandenen Informationsflut.
+    Semantische Suchmaschinen, wie Wolfram Alpha
+    Bots, insbesondere Social Bots (z. B. ChatGPT, Luminous von Aleph Alpha, Mistral 7B von Mistral AI, Cleverbot)
+    Maschinelle Übersetzung ist weit verbreitet. Beispiele: Google Übersetzer, DeepL
+    Texterkennung und Textgenerierung, zum Beispiel von Eilmeldungen, Werbung oder für besonders strukturierte Daten
+    Data-Mining und Text Mining bieten Methoden zur Extraktion von Kerninformationen aus nicht- oder nur schwach strukturierten Texten, wie es etwa zur Erstellung von Inhaltsanalysen benötigt wird.
+    Mittels Argumentation Mining können Argumentationsstrukturen in Texten analysiert werden.[14]
+    Informationsrückgewinnung hat das Wiederauffinden und Zusammenführen bereits bestehender, komplexer Strukturen in sehr großen Datensätzen zum Ziel, ein Anwendungsgebiet sind Internet-Suchmaschinen.
+    Computeralgebrasysteme, wie Mathematica oder Maple, unterstützen Mathematiker, Wissenschaftler und Ingenieure bei ihrer Arbeit.
+    Optische Zeichenerkennung liest gedruckte Texte zuverlässig.
+    Handschrifterkennung wird u. a. millionenfach in Geräten wie PDAs, Smartphones und Tabletcomputern verwendet.
+    Spracherkennung ermöglicht Sprachsteuerung oder das Diktieren eines Textes. Wird u. a. in Smartphones eingesetzt, z. B. bei Siri, Google Assistant, Cortana und Samsungs Bixby oder auch Amazon Echo.
+    Bilderkennung, z. B. das automatische Taggen von Bildern bei Flickr oder die Cloud Vision API von Google.
+    Text-zu-Bild-Generatoren
+    Gesichtserkennung, z. B. die App FindFace.
+    Computer-Vision-Systeme überwachen öffentliche Plätze, Produktionsprozesse oder sichern den Straßenverkehr.
+    Deepfakes, d. h. der Austausch von Gesichtern oder anderen Medieninhalten
+    In Computerspielen dienen die Algorithmen, die in der KI entwickelt wurden, dazu, computergesteuerte Mitspieler intelligent handeln zu lassen (siehe auch KI in Computerspielen).
+    Analyse und Prognose von Aktienkursentwicklungen werden gelegentlich durch künstliche neuronale Netze unterstützt.
+    Bei Gruppensimulationen für Sicherheitsplanung oder Computeranimation wird ein möglichst realistisches Verhalten von (Menschen-)Massen berechnet.
+    Intelligenter Persönlicher Assistent (oder auch digitaler Sprachassistent)
+    Ein wissensbasiertes System bzw. spezieller ein Expertensystem stellt Lösungen bei komplexen Fragestellungen zur Verfügung. Beispiele für solche Anwendungen sind: Das Computerprogramm Watson (siehe weiter oben) oder die Wissensdatenbank Cyc. In einfacherer Form wird dies u. a. in Smartphones eingesetzt z. B. bei Siri, Google Now, Cortana und Samsungs S Voice oder auch Amazon Echo.
+    Suche nach extrasolaren Planeten durch Auswertung von Helligkeitsschwankungen von Sternen über die Transitmethode[15]
+
+Künstliche Intelligenz mit spezialisierter Hardware
+
+    Selbstfahrende Kraftfahrzeuge, z. B. von Waymo
+    Humanoide Roboter, z. B. Atlas, ASIMO, Pepper
+    Autonome Waffen
+    Bei der Exploration von Ölquellen, der Steuerung von Marsrobotern oder der medizinischen Diagnose werden Expertensysteme eingesetzt.
+
+KI in der Medizin
+→ Hauptartikel: Künstliche Intelligenz in der Medizin
+KI in der Juristik
+
+Ein großer Teil der Arbeit von Juristen besteht in der Analyse von Akten, zum Beispiel von Präzedenzfällen, um daraus Argumente zu entwickeln. Derartige Arbeit kann mittlerweile zu einem Teil von KI-Anwendungen übernommen werden.[16] Die Beratungsfirma McKinsey schätzte 2017, dass etwa 22 Prozent der Arbeit von Anwälten und 35 Prozent der Arbeit von Rechtshelfern mit Hilfe von KI-Systemen automatisiert werden könnte. Die KI-Systeme werden anhand von Millionen von Dokumenten und Fallbeispielen und juristischen Anträgen trainiert. Danach kann eine KI diejenigen Dokumente markieren, die ein Jurist für seinen Fall braucht; oft besser, als dies ein Mensch könnte. JPMorgan gab bekannt, die KI Contract Intelligence einzusetzen, die nach Aussagen von JPMorgan eine Menge von Daten in Sekunden analysieren kann, wofür Juristen und Rechtshelfer 360.000 Stunden benötigen würden.[17]
+KI bei Tötungsmaschinen und Kriegswaffen
+
+Am 18. September 2021 wurde bekannt, dass der iranische Kernphysiker, Hochschullehrer und Angehörige der iranischen Revolutionsgarden Mohsen Fachrisadeh durch KI-gesteuerte Tötungs-Roboter mit hoher Schusswaffen-Präzision ermordet wurde. Trotz der bekannten Gefährdung des Wissenschaftlers, seiner Eskortierung und seinem starken Personenschutz waren, einem Artikel der New York Times zufolge,[18] nur 15 hochpräzise Schüsse zu seiner Tötung notwendig. Dies wurde durch eine KI-gestützte Gesichtserkennung möglich, die offenbar genau zwischen dem Wissenschaftler, seiner Frau und seinen Kindern unterscheiden konnte. Die Frau saß, genau wie seine Söhne, nur wenige Zentimeter von ihm entfernt im Auto und blieb beim Attentat dennoch physisch unverletzt. Die Kontrolle über das Attentat erfolgte dem Artikel zufolge aus 1600 Kilometer Entfernung, an einem nicht näher genannten Ort.
+
+Im Zuge des russischen Angriffskrieges auf die Ukraine seit dem Februar 2022 ist die mediale Aufmerksamkeit für den Einsatz von KI für militärische Zwecke gestiegen.[19] In Deutschland beschäftigen sich sowohl die Bundeswehr als auch die private Rüstungswirtschaft intensiv mit der Entwicklung und Implementierung von KI-unterstützten Waffensystemen.[20]
+
+Im Mai 2023 erregte der Vortrag eines Colonels der U.S. Air Force Aufsehen, der bei einer Militär-Konferenz in London geschildert hatte, wie KI ihre Einsatz-Parameter verletzt und den eigenen Kontrollturm angegriffen habe, weil sie den menschlichen Operator als Hindernis bei der Erfüllung ihrer Mission betrachtet hätte. Kurz darauf ließ das US-Militär klarstellen, es habe sich um keine echte Übung, sondern lediglich um ein Gedankenexperiment gehandelt.[21]
+KI im Marketing
+
+Im Marketing wird künstliche Intelligenz eingesetzt, um zum Beispiel Werbe-E-Mails zu verschicken, den Kundendienst durch Social Bots und Chatbots abzulösen, Analysen und Prognosen des Markts und des Kunden, beispielsweise auf Basis von Big Data, durchzuführen und kundenspezifische Werbeanzeigen, Empfehlungen und Suchergebnisse, sowie programmierte Abläufe zu entwickeln. So beabsichtigte der Online-Versandhändler Zalando im März 2018, 250 Arbeitsplätze im Marketingbereich im Standort Berlin zu streichen, die durch künstliche Intelligenz ersetzt werden sollen.[22]
+KI in Computer- und Gesellschaftsspielen
+
+In Computerspielen wird eine KI meistens dazu verwendet um NPC, sogenannte Nicht-Spieler-Charaktere, die menschenähnliches Verhalten simulieren (zum Beispiel als simulierte Verbündete oder Computergegner) zu steuern oder bestimmte Dinge in der Spielwelt oder bei den Funktionen des Spielecharakters (zum Beispiel Routenfindung, prozedurale Generierung, automatische Verbesserungen und Vervollständigungen beim Streckenbau oder andere Algorithmen) zu berechnen. Bei einigen Spielen lässt sich der Schwierigkeitsgrad der KI-Gegner einstellen und optional wählen, ob man gegen eine KI, gegen echte Spieler oder eine Mischform spielen möchte. Bei ein paar Spielen kann sich die KI auch automatisch an das Spielverhalten anpassen oder aus Fehlern lernen. Da im Einzelspielermodus oft Gegner fehlen, wird auf eine KI zurückgegriffen. Zudem wird KI in Computerspielen verwendet, um viele oder sehr spezielle Charaktere zu simulieren, die nicht oder sehr schwer von echten Menschen übernommen werden könnten. Teilweise lassen sich KI-Anwendungen in Computerspielen aber auch einfach austricksen, da ein Mensch ein bestimmtes Muster einer KI umgehen kann. Der Realismus und das Gameplay eines Computerspiels werden daher auch oft an der KI gemessen.[23][24][25]
+
+Auch wird KI in Strategie-Brettspielen als Ersatz für den menschlichen Partner eingesetzt. Gegen sehr leistungsfähige Versionen dieser Programme haben auch Weltmeister kaum Gewinnchancen. Erfolge gegen menschliche Profispieler erzielte KI zum Beispiel in Backgammon, Schach, Checkers, Go und StarCraft II. Das Meistern komplexer Spiele ist oft Gegenstand der Forschung, um so neue Methoden der künstlichen Intelligenz zu entwickeln und zu demonstrieren.[26] Inzwischen tragen diese Programme Partien untereinander aus. 2016 besiegte die auf DeepMind aufbauende KI AlphaGo den 18-maligen Go-Weltmeister, den Südkoreaner Lee Sedol unter Turnierbedingungen 4:1.[27] Ende 2017 hat die Neuentwicklung AlphaZero gegen das bis dahin weltbeste Schachprogramm Stockfish in 100 ausgetragenen Partien deutlich obsiegt.[28] 2019 gelang es der DeepMind-Weiterentwicklung Alpha Star, menschliche Top-Spieler beim populären und als sehr schwer geltenden Strategiespiel StarCraft II 10:1 zu besiegen.[29]
+
+Darüber hinaus werden auch KI-Anwendungen entwickelt, die anstelle eines menschlichen Spielers Videospiele wie Jump ’n’ Runs, Rollenspiele oder Rennspiele steuern.[30][31][32] Ähnlich ist die Entwicklung im E-Sport-Bereich, in dem Profigamer versuchen, die besten KI-Systeme zu schlagen, während Entwickler darauf hinarbeiten, die besten Spieler durch eine KI zu besiegen.[33]
+KI zur Erzeugung von Bildern und Kunstwerken
+Ein 2018 durch eine KI errechnetes Porträt des Künstlers Joseph Ayerle, das die Schauspielerin Ornella Muti zeigt. Die KI wurde darauf trainiert, den Stil des Renaissance-Malers Raffael nachzugestalten.
+
+Forscher aus Tübingen haben neuronale Netze dazu verwendet, ein vorgegebenes Foto im Stil eines berühmten Künstlers zu malen z. B. Van Gogh oder Edvard Munch.[34] Forscher bei Google haben neuronale Netze darauf trainiert, aus einer Art weißem Rauschen Bilder im Stil von Van Gogh und anderen Künstlern zu produzieren. Die Bilder wurden später auf einer Auktion versteigert.[35][36]
+
+Im Juli 2017 stellten Forscher der Rutgers-Universität eine KI vor, die künstlerische Gemälde produziert. Die KI wurde mit ca. 80.000 Bildwerken der westlichen Kunstgeschichte trainiert. Die von der KI erstellten Gemälde wurden mit Bildern, die auf der Kunstmesse Art Basel ausgestellt worden waren, vermischt und 18 Testpersonen (künstlerischen Laien)[37] in einem Blindtest zur Beurteilung vorgelegt. Die Testpersonen sollten einschätzen, ob die Bilder von Menschen oder einem Computer erzeugt worden waren. Bei den durch echten, auf der Art Basel ausgestellten Kunstwerken unterstellten die Testpersonen bei 52 % aller Werke, sie seien durch einen Computer erstellt. Bei den KI-basierten Bildern, nahmen die Testpersonen das nur für 25 % aller Bilder an.[38]
+
+Im März 2018 wurde ein Videokunstwerk publiziert, in dem eine durch KI erschaffene Ornella Muti agierte. Der Künstler Joseph Ayerle hatte mit Hilfe eines künstlichen neuronalen Netzes neue Filmsequenzen errechnet, die die echte italienische Schauspielerin nie gespielt hat.[39][40] 2021 wurde der Kurzfilm „Fellini Forward“ aufgeführt. Bei der Produktion der Frederico Fellini-Hommage setzte das Produktionsteam auf KI-Werkzeuge, um dramaturgische, visuelle und linguistische Muster in den Werken Fellinis zu erkennen und sie im neuen Film einzusetzen.[41]
+
+Im Oktober 2018 versteigerte das Auktionshaus Christie’s das durch künstliche Intelligenz erschaffene „Portrait of Edmond de Belamy“. Das ursprünglich auf einen Verkehrswert von 7.000 bis 10.000 US-Dollar geschätzte Bild erzielte in der Auktion einen Erlös von 432.500 Dollar.
+
+Hinter der Herstellung des Porträts stand die französische Künstlergruppe Obvious, die eine künstliche Intelligenz mit den Bilddaten von 15.000 echten Gemälden[42] des 14. bis 20. Jahrhunderts trainiert hatte. Besondere Beachtung in der Presse fand, dass das Bild nicht mit den Signaturen der Künstler unterzeichnet wurde, sondern mit der Formel „min G max D Ex[log(D(x))]+Ez[log(1-D(G(z)))]“, die nach Angaben des Künstlerteams bei seiner Entstehung genutzt wurde.[43]
+
+Der Autor George R. R. Martin schrieb an seinem sechsten Buch der Reihe Game of Thrones, das von der Fangemeinde ungeduldig erwartet wurde. Der Programmierer Zack Thoutt trainierte eine KI (Recurrent Neural Net) mit den ersten fünf Büchern der Serie und ließ von der KI ein sechstes Buch schreiben. Das Ergebnis wurde im Sommer 2017 im Internet veröffentlicht. Dabei entwickelte die KI einzelne Charaktere genauso weiter, wie das in manchen Fan-Theorien erwartet wurde, ohne dass die KI davon wusste. Mängel gibt es bei der Grammatik, einzelne Charaktere, die bereits verstorben waren, tauchen wieder auf und die Handlungsstränge sind nicht sehr spannend.[44]
+
+Sunspring ist der erste Kurzfilm (2016), dessen Drehbuch von einer KI geschrieben wurde.[45][46]
+
+Google versucht in seinem Magenta-Projekt, KI-Systeme zu erzeugen, die kreativ sind. So wurde im Sommer 2017 eine Klavier-Improvisation vorgestellt, die von einer KI komponiert wurde.[47] Bereits im Sommer 2016 veröffentlichte das Projekt Magenta einen kurzen Pop-Song, der von einer KI komponiert wurde.[48]
+
+Die Musik des Albums „I am AI“ der Sängerin Taryn Southern, vorgestellt im Herbst 2017, wurde von einer KI komponiert. Um einen Song mit Hilfe einer KI zu komponieren, verwendet man eine Software wie etwa Amper Music oder Jukedeck, wählt das Genre und weitere Parameter wie Länge des Songs, Instrumentierung usw. Innerhalb von Sekunden komponiert die KI dann einen einzigartigen Song. Ein Musiker kann daraufhin Bruchstücke dieser Beispiele zu einem eigenen Song zusammenfügen. Somit kann jedermann mehr oder weniger professionelle Musik kreieren. Immer mehr Musiker geben zu, beim Komponieren KI als Werkzeug zu benutzen.[49][50] Auch das Album „Hello World“ von Skygge wurde vollständig mit einer KI (Flow-Machine) komponiert. Die KI komponiert Soundstücke, die dann von Menschen sortiert, selektiert und zusammengesetzt werden, das sogenannte Kuratieren.[51] Ein Team von Musikwissenschaftlern und KI-Experten unter Leitung von Matthias Röder, Direktor des Salzburger Karajan-Instituts, vollendete 2021 mit Hilfe einer künstlichen Intelligenz die unvollendete 10. Sinfonie des Komponisten Beethoven.[52]
+Fiktives, mit Hilfe von KI und Bildbearbeitung erzeugtes fotorealistisches Bild: Der junge Amazon-Gründer Jeff Bezos eine Woche vor dem Launch von amazon.com
+
+Ab dem Jahr 2022 wurden den Nutzern innovative Text-zu-Bild-KI-Systeme zur Erzeugung von Bildern zur Verfügung gestellt, die einen deutlichen Fortschritt gegenüber früheren Technologien darstellten. Zu den namhaften Bildgeneratoren zählten beispielsweise Midjourney, DALL-E (entwickelt vom OpenAI-Team, das auch hinter ChatGPT steht) und Stable Diffusion.[53][54] Eine herausragende Eigenschaft dieser neuen Programme bestand darin, dass Bilder mithilfe von Wortanweisungen, sogenannten „Prompts“, erstellt werden konnten.[55] Zusätzlich war es möglich, der KI eigene Bilder als Beispiele vorzugeben. Ab dem Jahr 2023 erreichten die KI-generierten Bilder ein so hohes Maß an Fotorealismus, dass man sie teilweise für echte Fotos halten konnte. Zwei KI-generierte Bilder erlangten große Aufmerksamkeit in der Öffentlichkeit, da sie eine bemerkenswerte fotografische Qualität aufwiesen und von vielen Betrachtern zunächst für echte Fotos gehalten wurden: Ein KI-generiertes Bild von Papst Franziskus, der einen auffällig modischen Wintermantel trug,[56][57][58] und ein KI-generiertes Bild eines simulierten Angriffs auf das Pentagon.[59]
+
+Kontrovers ist die Sicht der am Diskurs beteiligten Künstler und Experten über die Rolle der KI als Urheber eines Kunstwerks. Das Motto der Künstlergruppe Obvious lautet: „Kreativität ist nicht nur etwas für Menschen.“[60] Konträr dazu steht die Aussage des Künstlers Joseph Ayerle, der vom Massachusetts Institute of Technology mit den Worten zitiert wird: „KI kann erschaffen, aber sie ist nicht schöpferisch“.[39] Matthias Röder, der ein Team leitete, das den Versuch unternahm, mit KI-Hilfe Beethovens 10. Sinfonie zu vollenden, sprach von einer „Kollaboration zwischen Mensch und Maschine“.[61]
+
+In juristischer Hinsicht ist strittig, ob und wie von einer KI geschaffene Kunstwerke dem Schutz des Urheberrechtsgesetzes unterliegen. Denn gemäß § 2 II UrhG können „Werke“ im Sinne des Urheberrechts nur „persönliche geistige Schöpfungen“ sein. Ein ausschließlich von einer Maschine geschaffenes Werk fällt nicht darunter, weil es nach einheitlicher Ansicht einer menschlich-gestalterische Tätigkeit erfordert. Jedenfalls in den Fällen, in denen die KI nicht nur als Hilfsmittel, Instrument oder Werkzeug des Werkschaffenden eingesetzt wird, sondern jegliche Kontrolle über Prozess und Ergebnis durch einen menschlichen Schöpfer aufgegeben wurde, fehlt es an einer geistigen Verbindung des „Werkes“ zu einem „Schöpfer“ im Sinne des § 2 II UrhG, sodass Urheberrecht dann nicht besteht.[62]
+KI zur Herstellung von Produktdesign
+
+Ein Team des US-amerikanischen 3D-Software-Experten Autodesk und der bekannte Designer Philippe Starck haben gemeinsam den – nach Angaben der Beteiligten – ersten „von künstlicher Intelligenz und Menschen gemeinsam entwickelte Stuhl“ erschaffen, den sogenannten A. I. Chair.[63] 2023 wurde bekannt, dass die NASA eine eigene Software nutzt, um mit Hilfe von KI das Design von Bauteilen für Raumschiffe und andere Geräte für Raumfahrten optimal zu gestalten.[64] Das organisch anmutende Aussehen dieser KI-generierten Bauteile unterscheidet sich deutlich vom menschengemachten Design.
+KI in der Hochschulbildung
+
+An einigen Hochschulen werden KI-Systeme zur individuellen Unterstützung von Studierenden und Lehrenden eingesetzt.[65]
+
+    Automatisierte Assessments unterstützen Studierende beim Wissenserwerb
+    Mit Hilfe von Learning Analytics werden digitale Bildungsangebote optimiert
+    Adaptive Lernumgebungen passen sich an die individuellen Bedürfnisse der Lernenden an (z. B. MathSpring)
+    Chatbots beantworten häufig gestellte Fragen (z. B. Eliza, Mitsuku, Jill Watson)
+    Empfehlungssysteme helfen bei der Wahl von Studienfächern, Kursen, Stipendien und Ressourcen (z. B. Literatur)
+
+KI beim Klimaschutz
+
+KI kann Satellitenbilder auswerten und so ermitteln, wo welche Treibhausgase emittiert werden, ob Gebäude energieeffizient sind sowie wo und in welchem Umfang Wälder abgeholzt oder wieder aufgeforstet werden. Beispiele aus den Bereichen Landwirtschaft und Landnutzung sind zum Beispiel NASA Harvest[66] und der Copernicus Land Monitoring Service.[67]
+
+Mit KI können Daten zu Wind- und Solarenergieerzeugung, Verkehrsaufkommen und Extremwetterereignissen analysiert werden und daraus Prognosen für zukünftige Bedarfe und Alternative entwickelt werden. Ein Beispiel aus der Praxis ist Open Climate Fix,[68] eine Organisation, welche Open-Source-Modelle für ein sogenanntes Nowcasting entwickelt, das heißt, die Wolkenmenge auf Satellitenbildern wird analysiert und daraus, in Kombination mit anderen Daten, die Solarstromproduktion für die nächsten Stunden sehr genau vorausgesagt.
+
+Mit Hilfe von KI können Teile großer Klimamodelle nachgebildet, Stromnetze optimiert und klimafreundliche Stadtplanungstools entwickelt werden. Zwar kann KI physikalische Klimamodelle nicht ersetzen, doch kann sie in einigen Fällen gute Annäherungen für besonders rechenzeitintensive Modellkomponenten liefern, etwa indem ein näherungsweises Modell der Wolkenphysik nachgebildet wird. Auf diesem Wege lassen sich Klimamodelle nicht nur schneller berechnen, KI hilft hier auch, den hohen Energieaufwand der erforderlichen Supercomputer zu minimieren.[69]
+KI in der Materialwissenschaft
+→ Hauptartikel: Künstliche Intelligenz in der Materialwissenschaft
+KI in der Arbeitswelt
+
+Das Institut für Arbeitsmarkt- und Berufsforschung (IAB) forscht zu Veränderungen der Arbeitswelt durch künstliche Intelligenz. Vorgestellt werden auf einer Infoplattform Forschungsprojekte und Erkenntnisse zu Folgen für Beschäftigung, Löhne und Qualifikationsanforderungen.[70]
+KI in Logistik und Verkehr
+
+Wie 2023 bekannt wurde, setzt die Deutsche Bahn KI ein, um die Pünktlichkeit ihrer Züge zu verbessern. Nach einem Pilotprojekt in Stuttgart wurde das Projekt auf das Rhein-Main-Gebiet und Berlin ausgedehnt.[71]
+KI in der Steuerberatung
+
+In der Steuerberatung können durch KI vielmehr Aufgaben in kürzerer Zeit sowie Recherchearbeiten erledigt werden. Hierbei können insbesondere Chatbots Fragen von Mandanten beantworten.[72] Außerdem kann KI und dabei insbesondere NLP dazu genutzt werden, um steuerliche Sachverhalte in E-Mails von Mandanten zu erkennen und mit internen Dokumenten abzugleichen.[73]
+Turing-Test
+→ Hauptartikel: Turing-Test
+
+Um ein Kriterium zu haben, wann eine Maschine eine dem Menschen gleichwertige Intelligenz simuliert, wurde von Alan Turing der nach ihm benannte Turing-Test vorgeschlagen. Dabei stellt ein Mensch per Terminal beliebige Fragen an einen anderen Menschen bzw. eine KI, ohne dabei zu wissen, wer jeweils antwortet. Der Fragesteller muss danach entscheiden, ob es sich beim Interviewpartner um eine Maschine oder einen Menschen handelte. Ist die Maschine nicht von einem Menschen zu unterscheiden, so ist sie laut Turing intelligent.[74] Bisher konnte keine Maschine den Turing-Test zweifelsfrei bestehen. Seit 1991 existiert der Loebner-Preis für den Turing-Test.
+Technologische Singularität
+→ Hauptartikel: Technologische Singularität
+
+Grob wird unter der technologischen Singularität der hypothetische Zeitpunkt verstanden, an dem künstliche Intelligenz die menschliche Intelligenz übertrifft. Ab diesem Zeitpunkt wird die weitere technologische Entwicklung hauptsächlich von KI vorangetrieben und nicht mehr vom Menschen.
+Bewusstsein bei künstlicher Intelligenz
+
+In den Neurowissenschaften ist es eine Grundannahme, dass Bewusstseinsprozesse mit neuronalen Prozessen des Gehirns korrelieren (siehe Neuronales Korrelat des Bewusstseins). Nach Jürgen Schmidhuber ist das Bewusstsein nur ein Nebenprodukt des Problemlösens des Gehirns. So sei auch bei künstlichen Problemlösern (z. B. autonomen mobilen Robotern) von Vorteil, wenn diese sich ihrer selbst und ihrer Umgebung „bewusst“ seien. Schmidhuber bezieht sich bei „Bewusstsein“ im Kontext autonomer Roboter auf ein digitales Weltmodell inklusive des Systems selbst, nicht jedoch auf das Erleben von Zuständen. Ein Weltmodell könnte im Kontext von Reinforcement Learning dadurch erlernt werden, dass Aktionen belohnt werden, die das Weltmodell erweitern.[75]
+Angrenzende Wissenschaften
+Sprachwissenschaft
+
+Die Interpretation menschlicher Sprache durch Maschinen besitzt bei der KI-Forschung eine entscheidende Rolle. So ergeben sich etwaige Ergebnisse des Turing-Tests vor allem in Dialogsituationen, die bewältigt werden müssen.
+
+Die Sprachwissenschaft liefert mit ihren Grammatikmodellen und psycholinguistischen Semantikmodellen wie der Merkmals- oder der Prototypensemantik Grundlagen für das maschinelle „Verstehen“ komplexer natürlichsprachlicher Phrasen. Zentral ist die Frage, wie Sprachzeichen eine tatsächliche Bedeutung für eine künstliche Intelligenz haben können.[76] Das Chinese-Room-Argument des Philosophen John Searle sollte indes zeigen, dass es selbst dann möglich wäre, den Turing-Test zu bestehen, wenn den verwendeten Sprachzeichen dabei keinerlei Bedeutung beigemessen wird. Insbesondere Ergebnisse aus dem Bereich Embodiment betonen zudem die Relevanz von solchen Erfahrungen, die auf der Verkörperung eines Agenten beruhen sowie dessen Einbindung in eine sinnvolle Umgebung für jede Form von Kognition, also auch zur Konstruktion von Bedeutung durch eine Intelligenz.
+
+Eine Schnittstelle zwischen der Linguistik und der Informatik bildet die Computerlinguistik, die sich unter anderem mit maschineller Sprachverarbeitung und künstlicher Intelligenz beschäftigt.
+Psychologie
+
+Die Psychologie beschäftigt sich unter anderem mit dem Begriff Intelligenz.
+Psychotherapie
+
+In der Psychotherapieforschung existieren seit geraumer Zeit experimentelle Anwendungen der künstlichen Intelligenz, um Defizite und Engpässe in der psychotherapeutischen Versorgung zu überbrücken und Kosten zu sparen.[77]
+Philosophie
+
+Die philosophischen Aspekte der KI-Problematik gehören zu den weitreichendsten der gesamten Informatik.
+
+Die Antworten, die auf die zentralen Fragen dieses Bereiches gegeben werden, reichen weit in ontologische und erkenntnistheoretische Themen hinein, die das Denken des Menschen schon seit den Anfängen der Philosophie beschäftigen. Wer solche Antworten gibt, muss die Konsequenzen daraus auch für den Menschen und sich selbst ziehen. Nicht selten möchte man umgekehrt vorgehen und die Antworten, die man vor der Entwicklung künstlicher Intelligenz gefunden hat, auf diese übertragen. Doch wie sich zeigte, hat die künstliche Intelligenz zahlreiche Forscher dazu veranlasst, Probleme wie das Verhältnis zwischen Materie und Geist, die Ursprünge des Bewusstseins, die Grenzen der Erkenntnis, das Problem der Emergenz, die Möglichkeit außermenschlicher Intelligenz usw. in einem neuen Licht zu betrachten und zum Teil neu zu bewerten.
+
+Eine dem metaphysischen bzw. auch idealistischen Denken verpflichtete Sichtweise hält es (im Sinn einer schwachen KI) für unmöglich, dass Maschinen jemals mehr als nur simuliertes Bewusstsein mit wirklicher Erkenntnis und Freiheit besitzen könnten. Aus ontologischer Sicht kritisiert der amerikanische Philosoph Hubert Dreyfus die Auffassung der starken KI. Aufbauend auf der von Martin Heidegger in dessen Werk Sein und Zeit entwickelten Ontologie der „Weltlichkeit der Welt“ versucht Dreyfus zu zeigen, dass hinter das Phänomen der Welt als sinnhafte Bedeutungsganzheit nicht zurückgegangen werden kann: Sinn, d. h. Beziehungen der Dinge in der Welt aufeinander, sei ein Emergenzphänomen, denn es gibt nicht „etwas Sinn“ und dann „mehr Sinn“. Damit erweist sich jedoch auch die Aufgabe, die sinnhaften Beziehungen zwischen den Dingen der Welt in einen Computer einzuprogrammieren, als eigentlich unmögliches bzw. unendliches Vorhaben. Dies deshalb, weil Sinn nicht durch Addition von zunächst sinnlosen Elementen hergestellt werden kann.[78]
+
+Eine evolutionär-progressive Denkrichtung sieht es hingegen (im Sinn einer starken KI) als möglich an, dass Systeme der künstlichen Intelligenz einmal den Menschen in dem übertreffen könnten, was derzeit noch als spezifisch menschlich gilt. Dies birgt zum einen die Gefahr, dass solche KI-Maschinen sich gegen die Interessen der Menschen wenden könnten. Andererseits birgt diese Technologie die Chance, Probleme zu lösen, deren Lösung dem Menschen wegen seiner limitierten Kapazitäten schwerfällt (siehe auch technologische Singularität).
+
+Weitere Anknüpfungspunkte lassen sich in der analytischen Philosophie finden.
+
+Die Ethik der Künstlichen Intelligenz erforscht ethische Normen für Entwurf, Herstellung, Testung, Zertifizierung und den Einsatz künstlich intelligenter Systeme und fragt nach Prinzipien für das ethisches Verhalten von KI-Systemen. Intensiv untersuchte Themen sind dabei ethische Fragen des Autonomen Fahrens und Autonomer Waffensysteme sowie die Probleme und Realisierungsmöglichkeiten künstlicher moralischer Agenten.[79][80]
+
+Rechtsphilosophie und Roboterethik gehen der Frage nach, ob eine KI für ihr gesetzwidriges Handeln oder Fehlverhalten verantwortlich gemacht werden kann (z. B. bei einem Autounfall durch ein autonomes Fahrzeug) und wer dafür haftet.[81]
+
+Der russisch-amerikanische Biochemiker und Sachbuchautor Isaac Asimov beschreibt in seinen drei Robotergesetzen die Voraussetzungen für ein friedliches und unterstützendes Zusammenleben zwischen KI und Mensch. Diese Gesetze wurden später von anderen Autoren erweitert.
+
+Bei Karl Marx finden sich im sogenannten Maschinenfragment, einem Teil der Grundrisse (1857–58), Überlegungen zur Ersetzung menschlicher Arbeitskraft durch Maschinen, die sich auch auf Maschinen mit Künstlicher Intelligenz anwenden lassen.[82]
+Menschenrechte
+
+Zu den zentralen Fragen beim KI-Einsatz gehören die Aufteilung rechtlicher Verpflichtungen zwischen Staaten und Unternehmen sowie die Implikationen der Menschenrechte im Hinblick auf den Einsatz von KI in bestimmten Anwendungsbereichen, z. B. bei der Gesichtserkennung oder Erleichterung der Entscheidungsfindung von Gerichten. Auch wird das Ausmaß der technologischen Zusammenarbeit im Bereich der KI mit Staaten, die sich nicht an menschenrechtliche Grundstandards halten, aus wirtschaftsethischer und völkerrechtlicher Perspektive diskutiert.[83][84]
+Informatik
+Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+
+Die künstliche Intelligenz ist mit den anderen Disziplinen der Informatik eng verzahnt. Eine Abgrenzung kann anhand der erzielten Ergebnisse versucht werden. Hierzu scheint es sinnvoll, verschiedene Dimensionen von Intelligenz zu unterscheiden:
+
+    Die Fähigkeit zur Verarbeitung beliebiger Symbole (nicht nur Zahlen).
+    Der Aufbau eines inneren Modells der äußeren Welt, eines Selbstmodells, sowie der Beziehung von Selbst und Welt.
+    Die Fähigkeit zu einer zweckentsprechenden Anwendung des Wissens.
+    Die Fähigkeit, die im gespeicherten Wissen enthaltenen Zusammenhänge aufzudecken, d. h. logisch schlussfolgern zu können.
+    Die Fähigkeit zur Verallgemeinerung (Abstraktion) und zur Spezialisierung (d. h. zu Anwendung allgemeiner Zusammenhänge auf konkrete Sachverhalte).
+    Das Vermögen, erworbenes Wissen und vorhandene Erfahrung auf neue, bisher unbekannte Situationen zu übertragen.
+    Die Fähigkeit, sich planvoll zu verhalten und entsprechende Strategien zum Erreichen der Ziele bilden zu können.
+    Anpassungsfähigkeit an verschiedene, u. U. sich zeitlich ändernde Situationen und Problemumgebungen.
+    Lernfähigkeit, verbunden mit dem Vermögen, partiellen Fortschritt oder Rückschritt einschätzen zu können.
+    Die Fähigkeit, auch in unscharf bzw. unvollständig beschriebenen oder erkannten Situationen handeln zu können.
+    Die Fähigkeit zur Mustererkennung (Besitz von Sensoren) und zur aktiven Auseinandersetzung mit der Umwelt (Besitz von Effektoren).
+    Über ein Kommunikationsmittel von der Komplexität und Ausdrucksfähigkeit der menschlichen Sprache verfügen.
+
+Seit 1966 wird mit dem Turing Award ein Informatikpreis vergeben. Viele der Preisträger wurden wegen ihrer Errungenschaften im Bereich der Erforschung und Entwicklung Künstlicher Intelligenz ausgezeichnet.
+Kritik an der KI-Forschung
+
+Stephen Hawking warnte 2014 vor der KI und sah darin eine Bedrohung für die Menschheit. Durch die KI könnte das Ende der Menschheit eingeleitet werden. Ob die Maschinen irgendwann die Kontrolle übernehmen werden, werde die Zukunft zeigen. Aber bereits heute sei klar, dass die Maschinen die Menschen zunehmend vom Arbeitsmarkt verdrängen.[85][86][87]
+
+Im August 2017 forderten 116 Unternehmer und Experten aus der Technologiebranche (u. a. Mustafa Suleyman, Elon Musk, Yoshua Bengio, Stuart Russell, Jürgen Schmidhuber) in einem offenen Brief an die UN, dass autonome Waffen verboten werden sollten bzw. auf die seit 1983 bestehende CCW-Liste gesetzt werden sollen. Die Certain Conventional Weapons sind von der UN verboten und beinhalten unter anderem Chemiewaffen. Nach Schwarzpulver und der Atombombe drohe die dritte Revolution der Kriegsführung. Zitat aus dem Schreiben: „Wenn diese Büchse der Pandora einmal geöffnet ist, wird es schwierig, sie wieder zu schließen“ und „Einmal erfunden, könnten sie bewaffnete Konflikte erlauben in einem nie dagewesenen Ausmaß, und schneller, als Menschen sie begreifen können“. Terroristen und Despoten könnten die autonomen Waffen nutzen und sogar hacken.[88][89]
+
+Argumentativ entgegengetreten sind solchen Positionen u. a. Rodney Brooks und Jean-Gabriel Ganascia.[90] Jörg Phil Friedrich vertritt den Standpunkt, es sei weniger eine künstliche Intelligenz, die uns in den KI-Systemen begegne, „sondern eine über weite Strecken degenerierte menschliche Intelligenz“.[91]
+
+Im Februar 2018 wurde ein Bericht einer Projektgruppe führender Experten im Bereich KI veröffentlicht, der vor möglichen „Bösartige[n] Nutzungen künstlicher Intelligenz“ (englischer Originaltitel: „The Malicious Use of Artificial Intelligence“) warnt.[92] Beteiligt waren daran unter anderem Forscher der Universitäten von Oxford, Yale und Stanford, sowie Entwickler von Microsoft und Google. Der Bericht nimmt Bezug auf schon existierende Technologien und demonstriert anhand von diversen Szenarien, wie diese von Terroristen, Kriminellen und despotischen Regierungen missbraucht werden könnten.[92] Die Autoren des Berichts fordern daher eine engere Zusammenarbeit von Forschern, Entwicklern und Gesetzgeber im Bereich KI und schlagen konkrete Maßnahmen vor, wie die Gefahren des Missbrauchs verringert werden könnten.[92]
+
+Der Historiker Yuval Noah Harari sagt, „künstliche Intelligenz und Biotechnologie können zerstören, was den Menschen ausmacht.“ Er warnt vor einem Wettrüsten im Bereich der künstlichen Intelligenz und empfiehlt globale Zusammenarbeit angesichts dieser „existenziellen Bedrohung.“[93]
+
+Richard David Precht wendet sich gegen die Vorstellung, dass künftig böser Wille oder Machtstreben seitens einer entwickelten künstlichen Intelligenz drohe; das Gefahrenpotential liege vielmehr in ihrem falschen Einsatz.[94]
+
+Die ehemalige Google-Teamleiterin Timnit Gebru warnt vor dem bias und dem Energiebedarf großer Sprachmodelle, was Diskriminierung und Klimakrise verschärfen könnte.[95] Um solchen ungewollten Effekten vorzubeugen, versucht der Forschungsbereich des AI-Alignments (zu deutsch KI-Ausrichtung) sicherzustellen, dass KI nach menschlichen Werten wie etwa Egalitarismus handelt. (Siehe auch: Green IT)
+Vorschläge zum Umgang mit KI
+
+Der Präsident von Microsoft, Brad Smith, schlug vor, einen Verhaltenskodex aufzustellen, wie etwa eine Digitale Genfer Konvention, um Risiken der künstlichen Intelligenz zu verringern.
+
+Der Ethiker Peter Dabrock empfiehlt im Kontext der Benutzung und Programmierung von künstlicher Intelligenz nicht nur die digitale Kompetenz der Beteiligten zu erhöhen, sondern auch auf klassische Bildungselemente zu setzen. Um mit den dazugehörigen Herausforderungen zurechtzukommen sowie die Fähigkeiten zur Unterscheidung und zur Erkennung von Mehrdeutigkeit zu erhöhen, seien Kenntnisse aus Religion, Literatur, Mathematik, Fremdsprachen, Musik und Sport eine gute Voraussetzung.[96]
+
+Der Deutsche Bundestag hat am 28. Juni 2018 eine Enquete-Kommission Künstliche Intelligenz – Gesellschaftliche Verantwortung und wirtschaftliche Potenziale eingesetzt.[97] Am 28. Oktober 2020 hat die Kommission ihren Abschlussbericht vorgelegt. Künstliche Intelligenz ist demnach die nächste Stufe der Digitalisierung. Unter dem Leitbild einer „menschenzentrierten KI“ wird eine „demokratische Gestaltung“ der Entwicklung gefordert, so dass KI-Anwendungen vorrangig auf das Wohl und die Würde der Menschen ausgerichtet seien und einen gesellschaftlichen Nutzen bringen. Um einer Diskriminierung von Menschen entgegenzuwirken „braucht es, wenn KI über Menschen urteilt, einen Anspruch auf Transparenz, Nachvollziehbarkeit und Erklärbarkeit von KI-Entscheidungen, damit eine gerichtliche Überprüfung automatisierter Entscheidungen möglich ist“.[98]
+
+2021 veröffentlichte die EU-Kommission einen Vorschlag über eine KI-Verordnung, über die derzeit verhandelt wird.
+
+Im März 2023 wurde ein u. a. von Elon Musk unterstützter Aufruf zu einer 6-monatigen KI-Entwicklungspause veröffentlicht.[99]
+Verbreitung von KI in Deutschland
+
+Die Zahl der Betriebe, die KI-Technologien einsetzen, ist in Deutschland noch relativ gering. Ende 2018 haben nur 6 Prozent der Unternehmen KI genutzt oder implementiert. 17 Prozent haben angegeben, KI-Einsätze zu testen oder zumindest solche zu planen.[100] Auch die ZEW-Studie[101] kommt zu einem ähnlichen Ergebnis. Im Jahr 2019 haben rund 17.500 Unternehmen im Berichtskreis der Innovationserhebung (produzierendes Gewerbe und überwiegend unternehmensorientierte Dienstleistungen) KI in Produkten, Dienstleistungen oder internen Prozessen eingesetzt. Das sind 5,8 Prozent der Unternehmen im Berichtskreis.
+Das KI-Observatorium
+
+Mit dem Observatorium Künstliche Intelligenz in Arbeit und Gesellschaft (kurz: KI-Observatorium), einem Projekt der Denkfabrik Digitale Arbeitsgesellschaft, fokussiert das Bundesministerium für Arbeit und Soziales die Frage nach den Auswirkungen von KI auf Arbeit und Gesellschaft. Das KI-Observatorium agiert an der Schnittstelle zwischen Politik, Wissenschaft, Wirtschaft und Gesellschaft; es fungiert als Wissensträger und Impulsgeber. Das KI-Observatorium hat die Aufgabe, Effekte von KI in der Arbeitswelt frühzeitig zu antizipieren und Handlungsbedarfe aufzuzeigen. Auf diese Weise leistet die im März 2020 gestartete Arbeitseinheit einen Beitrag zur Realisierung der in der KI-Strategie der Bundesregierung formulierten Ziele – etwa zum sicheren und gemeinwohlorientierten Einsatz von KI. Darüber hinaus soll das KI-Observatorium mithilfe von Dialog- und Beteiligungsformaten unterschiedliche gesellschaftliche Akteure im Umgang mit künstlicher Intelligenz befähigen und bestärken.[102]
+
+Die konkreten Aufgabenschwerpunkte des Observatoriums sind in den fünf Handlungsfeldern festgehalten:[103]
+
+    Technologie-Foresight und Technikfolgenabschätzung
+    KI in der Arbeits- und Sozialverwaltung
+    Ordnungsrahmen für KI/soziale Technikgestaltung
+    Aufbau internationaler und europäischer Strukturen
+    Gesellschaftlicher Dialog und Vernetzung
+
+Regulierung und Gesetzgebung
+Europäische Union
+
+Das Gesetz über künstliche Intelligenz (informell meist KI-Verordnung, englisch AI Act) ist eine EU-Verordnung für die Regulierung von künstlicher Intelligenz. Es ist die weltweit erste umfassende Regulierung dieser Art. Das Gesetz regelt den Einsatz von KI unter anderem für die kritische Infrastruktur, Sicherheitsbehörden und Personalverwaltung.[104] Die Europäische Kommission hat das Gesetz am 21. April 2021 vorgeschlagen und veröffentliche einen ersten Entwurf.[105] Am 28. September 2022 hat die Europäische Kommission in dem Zusammenhang auch den Entwurf einer Richtlinie über Produkthaftung[106] und einer Richtlinie über KI-Haftung veröffentlicht.[107] Haftungsfragen waren zuvor aus der Verordnung herausgenommen worden.[108] In dem Kontext steht auch die Überarbeitung der Maschinenrichtlinie zur EU-Maschinenverordnung, die am 14. Juni 2023 in Kraft getreten ist. Am 9. Dezember 2023 einigten sich die EU-Gesetzgebungsinstitutionen auf die Grundzüge des Gesetzes.[109][110]
+Vereinigte Staaten
+
+In den Vereinigten Staaten gibt es bislang keine Bundesgesetzgebung, die die Verwendung von künstlicher Intelligenz explizit und umfassend reguliert.
+
+Dass der Einsatz von KI möglichst global reguliert wird, halten viele US-amerikanische Juristen jedoch für notwendig, so zum Beispiel Anwalt Shabbi S. Khan: „Generative KI hat das Potenzial, katastrophal zu sein“.[111] Auch die US-Regierung hat erkannt, dass die Machtfülle der großen Tech-Unternehmen zu einer Bedrohung der Demokratie werden kann. Im Juli 2023 wollte US-Präsident Joe Biden eine freiwillige Selbstverpflichtung führender KI-Unternehmen einholen, um zu einer sicheren und transparenten KI-Entwicklung beizutragen.[112]
+Darstellung in Film und Literatur
+
+Seit der Klassischen Moderne wird KI in Kunst, Film und Literatur behandelt.[113] Dabei geht es bei der künstlerischen Verarbeitung – im Gegensatz zur KI-Forschung, bei der die technische Realisierung im Vordergrund steht – vor allem um die moralischen, ethischen und religiösen Aspekte und Folgen einer nicht-menschlichen, „maschinellen Intelligenz“.
+
+In der Renaissance wurde der Begriff des Homunculus geprägt, eines künstlichen Miniaturmenschen ohne Seele.[114] Im 18. und 19. Jahrhundert erschienen in der Literatur menschenähnliche Automaten, beispielsweise in E. T. A. Hoffmanns Der Sandmann und Jean Pauls Der Maschinenmann.
+
+Im 20. und 21. Jahrhundert greift die Science-Fiction in Film und Prosa das Thema mannigfach auf.[115] 1920 prägte der Schriftsteller Karel Čapek den Begriff „Roboter“ in seinem Bühnenstück R.U.R.; 1926 thematisierte Fritz Lang in Metropolis Roboter, welche die Arbeit der Menschen übernehmen.[115]
+
+Dem Filmpublikum wurden in den unterschiedlichen Werken die Roboter als intelligente und differenzierte Maschinen mit ganz unterschiedlichen Persönlichkeiten präsentiert: Sie werden entwickelt, um sie für gute Zwecke einzusetzen, wandeln sich aber häufig zu gefährlichen Maschinen, die feindselige Pläne gegen Menschen entwickeln.[116] Im Lauf der Filmgeschichte werden sie zunehmend zu selbstbewussten Wesen, die sich die Menschheit unterwerfen wollen.[116]
+
+Beispiele (Auswahl Filme)
+
+    HAL 9000 in 2001: Odyssee im Weltraum (1968)
+    Colossus und Guardian in Colossus (1970)
+    Die Androiden in Westworld (1973) und Westworld (2016)
+    Die sprechenden Bomben in Dark Star – Finsterer Stern (1974)
+    Der Supercomputer Golem aus den Büchern Golem XIV und Also sprach Golem von Stanisław Lem (1981)
+    Master Control Programm in Tron (1982)
+    Das Auto K.I.T.T. in Knight Rider (1982–1986)
+    WOPR (War Operation Plan Response) in WarGames – Kriegsspiele (1983)
+    Skynet in der Terminator-Filmreihe (ab 1984)
+    Nummer 5 in den Filmen Nummer 5 lebt! (1986) und Nummer 5 gibt nicht auf (1988)
+    Android Data in Raumschiff Enterprise – Das nächste Jahrhundert (1987–1994)
+    Sämtliche Programme (Orakel, Architekt, Agent etc.) in The Matrix (1999)
+    Andrew Martin in Der 200 Jahre Mann (2000)
+    Die Hauptfigur in A.I. – Künstliche Intelligenz von Steven Spielberg (2001)
+    Minority Report (2002)
+    Red Queen und White Queen in den Resident-Evil-Filmen (seit 2002)
+    Sonny in I, Robot (2004)
+    Deep Thought in Per Anhalter durch die Galaxis (2005)
+    Person of Interest (ab 2011)
+    Real Humans – Echte Menschen (seit 2012)
+    Samantha in Her (2013)
+    Ava in Ex Machina (2015)
+    Humans (2015)
+    John of Us in Qualityland (2017)
+    A.R.E.S. in Schätzings Roman Die Tyrannei des Schmetterlings (2018)
+    TAU (2018)
+    M3GAN (2023)
+    Die Entität in Mission: Impossible - Dead Reckoning Teil Eins (2023)
+
+Beispiele (Auswahl Videospiele)
+
+    Roboter in Beneath a Steel Sky (1994) und Beyond a Steel Sky (2020)
+    Androiden in Blade Runner (1997)
+    Androiden in Vandell: Knight of the Tortured Souls (2002)
+    GLaDOS in Portal und Portal 2 (2007)
+    Androiden in Detroit: Become Human (2018)
+    Die KI Esme in Annie and the Ai (2023)
+
+Soziale Auswirkungen
+
+Im Zuge der industriellen Revolution wurde durch die Erfindung der Dampfmaschine die Muskelkraft von der Maschine ersetzt (PS durch Watt). Durch die digitale Revolution könnte die menschliche Denkleistung durch maschinelle KI ersetzt werden.[117]
+
+Der amerikanische Unternehmer Elon Musk prognostiziert, dass es zukünftig immer weniger Erwerbsarbeit geben werde, die nicht von einer Maschine besser und günstiger gemacht werden könne, weshalb immer weniger Arbeitskräfte benötigt würden. Durch die weitgehend maschinelle Produktion würden die Produkte und Dienstleistungen sehr billig werden. In diesem Zusammenhang unterstützt er die Einführung eines bedingungslosen Grundeinkommens.[118] Der Physiker Stephen Hawking meinte: Bereits heute sei klar, dass die Maschinen die Menschen zunehmend vom Arbeitsmarkt verdrängen.[85][86] Microsoft-Gründer Bill Gates sieht die Entwicklung ähnlich. Er fordert eine Robotersteuer, um die sozialen Aufgaben der Zukunft bewältigen zu können.[119]
+
+Die Informatikerin Constanze Kurz erklärte in einem Interview, technischen Fortschritt habe es schon immer gegeben. Jedoch vollzog sich der technische Wandel in der Vergangenheit meist über Generationen, so dass genug Zeit blieb, sich für neue Aufgaben auszubilden. Heute verlaufe der technische Wandel innerhalb von wenigen Jahren, so dass die Menschen nicht genug Zeit hätten, sich für neue Aufgaben weiterzubilden.[120] Der Sprecher des Chaos Computer Clubs, Frank Rieger, warnte in verschiedenen Publikationen (z. B. dem Buch Arbeitsfrei)[121] davor, dass durch die beschleunigte Automatisierung vieler Arbeitsbereiche in naher Zukunft immer mehr Menschen ihre Beschäftigung verlieren würden (z. B. LKW-Fahrer durch selbstfahrende Autos). Darin bestehe unter anderem eine Gefahr der Schwächung von Gewerkschaften, die an Mitgliedern verlieren könnten. Rieger plädiert daher für eine „Vergesellschaftung der Automatiserungsdividende“, also einer Besteuerung von nichtmenschlicher Arbeit, damit durch das Wachstum der Wirtschaft in Form eines Grundeinkommens auch der allgemeine Wohlstand wächst und gerecht verteilt wird.[122]
+
+Wissenschaftler der Universität Oxford haben in einer Studie im Jahr 2013 eine Vielzahl von Jobs auf ihre Automatisierbarkeit überprüft. Dabei unterteilten die Wissenschaftler die Jobs in verschiedene Risikogruppen. 47 Prozent der betrachteten Jobs in den USA wurden in die höchste Risikogruppe eingeteilt, d. h., dass für diese Jobs die Wahrscheinlichkeit hoch ist, dass innerhalb der nächsten ein oder zwei Jahrzehnte (Stand 2013) die nötige Technologie entwickelt wird, um sie automatisieren zu können. Die Studie macht jedoch keine Aussage dazu, wie viele Jobs tatsächlich automatisiert werden, da nur die technologischen Entwicklungen und keine weiteren Faktoren betrachtet werden. Ein solcher Faktor wäre zum Beispiel die Höhe der Kosten, also ob eine Automatisierung teurer wäre als das Gehalt für einen menschlichen Arbeiter.[123]
+
+Jürgen Schmidhuber antwortete auf die Frage, ob KIs uns bald den Rang ablaufen werden bzw. ob wir uns Sorgen um unsere Jobs machen müssten: „Künstliche Intelligenzen werden fast alles erlernen, was Menschen können – und noch viel mehr. Ihre neuronalen Netzwerke werden aus Erfahrung klüger und wegen der sich rasch verbilligenden Hardware alle zehn Jahre hundertmal mächtiger. Unsere formelle Theorie des Spaßes erlaubt sogar, Neugierde und Kreativität zu implementieren, um künstliche Wissenschaftler und Künstler zu bauen.“ und „Alle fünf Jahre wird das Rechnen 10-mal billiger. Hält der Trend an, werden kleine Rechner bald so viel rechnen können wie ein menschliches Gehirn, 50 Jahre später wie alle 10 Milliarden Hirne zusammen.“[45] Als Konsequenz aus der aus seiner Sicht unabwendbar fortschreitenden Automatisierung und dem damit einhergehenden Wegfall von Erwerbsarbeitsplätzen sieht Schmidhuber die Notwendigkeit eines bedingungslosen Grundeinkommens.[124] „Roboterbesitzer werden Steuern zahlen müssen, um die Mitglieder unserer Gesellschaft zu ernähren, die keine existenziell notwendigen Jobs mehr ausüben. Wer dies nicht bis zu einem gewissen Grad unterstützt, beschwört geradezu die Revolution Mensch gegen Maschine herauf.“[125]
+
+Erik Brynjolfsson ist der Auffassung, das Aufkommen radikaler Parteien in den USA und Europa sei die Folge davon, dass viele Menschen heute schon nicht mehr mit dem technischen Fortschritt mithalten könnten. Wenn Menschen ihre Jobs verlieren, werden diese Menschen wütend, so Brynjolfsson. Auch er meint, dass in Zukunft die meisten Jobs von Maschinen erledigt würden.[126]
+
+Mark Zuckerberg äußerte bei einer Rede vor Harvard-Absolventen, dass die Einführung eines bedingungslosen Grundeinkommens notwendig sei. Es könne etwas nicht mehr in Ordnung sein, wenn er als Harvard-Abbrecher innerhalb weniger Jahre Milliarden machen könne, während Millionen von Uni-Absolventen ihre Schulden nicht abbezahlen könnten. Es brauche eine Basis, auf der jeder innovativ und kreativ sein könne.[127][128]
+
+Im November 2017 stellte der Deutsche-Bank-Chef John Cryan einen starken Stellenabbau in Aussicht. Das Unternehmen beschäftigt 97.000 Menschen. Bereits in den letzten 12 Monaten wurden 4.000 Stellen abgebaut. In naher Zukunft sollen 9.000 weitere Stellen abgebaut werden. Mittelfristig sollen die Hälfte aller Stellen abgebaut werden. Cryan begründete diesen Schritt damit, dass die Konkurrenz bereits heute mit etwa der Hälfte der Mitarbeiter vergleichbare Leistung erbringe. Cryan sagte: „Wir machen zu viel Handarbeit, was uns fehleranfällig und ineffizient macht“. Vor allem durch das maschinelle Lernen bzw. künstliche Intelligenzen könnte das Unternehmen noch viel effizienter werden. Viele Banker arbeiteten ohnehin wie Roboter, so Cryan. An die Stelle qualifizierter Mitarbeiter sollen qualifizierte Maschinen treten, so Cryan.[129]
+
+Der Zukunftsforscher Lars Thomson prognostizierte im November 2017 für die nächsten 10 Jahre gewaltige Umbrüche in Technologie, Arbeit, Werten und Gesellschaft. Im Jahr 2025 könne ein Haushalts-Roboter den Frühstückstisch decken, Fenster putzen, Pflegedienste übernehmen usw. wodurch Arbeitsplätze vernichtet würden. Heute schon gebe es 181 Firmen weltweit, die an klugen Robotern arbeiten. Der Preis eines solchen Roboters betrage heute etwa 20.000 Euro. Der Markt der künstlichen Intelligenz werde in wenigen Jahren größer sein als der Automobilmarkt. Wie schnell 10 Jahre vergingen, würde man sehen, wenn man 10 Jahre zurückblicke, als das erste Smartphone auf den Markt kam. Er bedauert, dass in unserer Gesellschaft kaum jemand diese Entwicklung erkenne, die unsere Gesellschaft komplett verändern werde. In Hotels würden in 10 Jahren Roboter die Arbeiten der heutigen Zimmermädchen übernehmen. Der Vorteil für den Hotelmanager: Der Roboter wolle keinen Lohn, keine freien Tage, müsse nicht versteuert und versichert werden. Der Nachteil: Der Staat erhalte keine Steuern mehr und die Menschen seien arbeitslos. Deshalb werde man nicht an einem bedingungslosen Grundeinkommen und der Einführung einer Robotersteuer vorbeikommen. Thomson sieht die Gefahr einer Spaltung der Gesellschaft, wenn das Tempo der Veränderung die Wandlungsfähigkeit der Menschen übersteige. Gleichzeitig werde die KI den Menschen von der Arbeit befreien. Die Gesellschaft müsse Leitplanken für die KIs definieren.[130]
+
+In einem Interview im Januar 2018 meinte der CEO von Google Sundar Pichai, die aktuelle Entwicklung der künstlichen Intelligenz sei für den Werdegang der Menschheit bedeutender als es die Entdeckung des Feuers und die Entwicklung der Elektrizität waren. Durch die aktuelle Entwicklung der KI werde kein Stein auf dem anderen bleiben. Deshalb sei es wichtig, dass die Gesellschaft sich mit dem Thema auseinandersetze. Nur so könne man die Risiken eingrenzen und die Potentiale ausschöpfen. Google gehört derzeit zu den führenden Unternehmen im Bereich der KI. Allein der KI-Assistent von Google ist bereits auf hunderten Millionen Android-Smartphones installiert. Aber auch in den Suchmaschinen kommt KI derzeit bereits milliardenfach zum Einsatz. Die von Google gekaufte Firma DeepMind eilt bei der KI-Forschung von Meilenstein zu Meilenstein u. a. mit AlphaGo, AlphaGo Zero, AlphaZero.[131]
+
+Das Institut für Arbeitsmarkt- und Berufsforschung (IAB), das zur Bundesagentur für Arbeit gehört, hat in einer Studie von 4/2018[132] dargelegt, welche menschliche Arbeit in Deutschland von Maschinen ersetzt werden kann. Die Studie kommt zum Ergebnis, dass im Jahr 2016 25 Prozent der bezahlten menschlichen Tätigkeiten von Maschinen hätten erledigt werden können, was etwa acht Millionen Arbeitsplätzen in Deutschland entspricht. Eine frühere Studie kam für das Jahr 2013 noch auf einen Wert von 15 Prozent. Am stärksten betroffen mit etwa 83 Prozent sind Fertigungsberufe, aber auch unternehmensbezogene Dienstleistungsberufe mit 60 Prozent, Berufe in der Unternehmensführung und -organisation mit 57 Prozent, Berufe in Land- und Forstwirtschaft und Gartenbau mit 44 Prozent usw. Im Vergleich von 2013 zu 2016 sind besonders stark Logistik- und Verkehrsberufe gestiegen (von 36 auf 56 Prozent), ein Bereich, in dem in Deutschland etwa 2,4 Millionen Menschen beschäftigt sind. Insgesamt geht die Studie davon aus, dass in naher Zukunft 70 Prozent der menschlichen bezahlten Tätigkeiten von Maschinen übernommen werden könnten. Maschinen könnten z. B. übernehmen: Wareneingangskontrolle, Montageprüfung, Kommissionierung, Versicherungsanträge, Steuererklärungen usw. Die Techniken, die diese Veränderungen vorantreiben, seien: künstliche Intelligenzen, Big Data, 3D-Druck und virtuelle Realität. Auch wenn es nicht zu Entlassungen komme, müssten Mitarbeiter zumindest mit starken Veränderungen in ihrem Berufsbild und damit starkem Umlernen rechnen. Es entstünden auch neue Berufsfelder. Auch werde nicht alles, was heute schon möglich ist, auch umgesetzt und schon gar nicht sofort. Ein Faktor für diese Verzögerung seien ethische und rechtliche Aspekte, aber auch die hohen Kosten der Automatisierung. Nicht immer sei die künstliche Intelligenz billiger als die menschliche Intelligenz.[133]
+
+In einem Gastbeitrag im Februar 2018 meinte der SAP-Chef Bill McDermott, dass sich die Menschen fürchten würden vor den Veränderungen, die eine Welt mit Robotern und KIs mit sich bringt. Ein erster Meilenstein sei der Sieg der Maschine Deep Blue über den amtierenden Schachweltmeister Gary Kasparov im Jahr 1997 gewesen. Ein weiterer Meilenstein sei der Sieg der Maschine Watson über den Menschen in der Quiz-Show Jeopardy im Jahr 2011 gewesen. Und der nächste große Schritt waren dann die Siege von AlphaGo und seinen Nachfolgern AlphaGo Zero und AlphaZero im Jahr 2016 und 2017. Die tiefgreifenden Veränderungen, die KI auch am Arbeitsplatz mit sich bringen würden, seien heute nun in aller Munde. Um etwaige negative Auswirkungen der neuen Techniken auf die Gesellschaft zu vermeiden, brauche es nun eine durchdachte Planung. Behörden, Privatwirtschaft und Bildungswesen müssten zusammenarbeiten, um jungen Menschen die Fähigkeiten zu vermitteln, die diese in der digitalen Wirtschaft benötigten. Umschulungen und lebenslanges Lernen seien heute die neue Normalität. Jobs würden nicht komplett von Maschinen ersetzt, sondern meist in Teilbereichen. Es entstünden auch viele neue Jobs. Die wirtschaftliche Entwicklung werde durch die KI befeuert. Man rechne für 2030 mit einer Wertschöpfung im Bereich von 16 Billionen US-Dollar und einem Wachstum des Bruttoinlandsprodukts um 26 Prozent. Durch die Automatisierung könnten Unternehmen zukünftig jährlich drei bis vier Billionen US-Dollar einsparen.[134] "
+    },
+    {
+        "title": "Forschung",
+        "body": "Unter Forschung versteht man, im Gegensatz zum zufälligen Entdecken, die systematische Suche nach neuen Erkenntnissen sowie deren Dokumentation und Veröffentlichung. Die Publikation erfolgt überwiegend als wissenschaftliche Arbeit in relevanten Fachzeitschriften und/oder über die Präsentation bei Fachtagungen. Forschung und Forschungsprojekte werden im wissenschaftlichen und industriellen, aber auch im künstlerischen[1] Rahmen betrieben.
+Inhaltsverzeichnis
+
+    1 Teilgebiete
+    2 Finanzierung
+        2.1 Deutschland
+        2.2 Österreich
+        2.3 Schweiz
+    3 Literatur
+    4 Weblinks
+    5 Einzelnachweise
+
+Teilgebiete
+
+Forschung wird im Allgemeinen unterschieden in:
+
+    Grundlagenforschung, die bislang unbekannte Objekte, Verhaltensmechanismen, Grundstrukturen oder Funktionszusammenhänge elementarer Art zu klären versucht. So befasst sich naturwissenschaftliche Grundlagenforschung z. B. mit der Funktion von Organismen in der Biologie oder den Wechselwirkungen von Stoffen in der Chemie und Physik. Geisteswissenschaftliche Grundlagenforschung hat z. B. das Phänomen Bildung zum Thema. Sie erkundet historisch oder gesellschaftlich relevante Gesetzmäßigkeiten menschlichen Verhaltens. Diese Forschung wird systematisch und auftragsgemäß vor allem an Wissenschaftlichen Hochschulen betrieben. Ein Beispiel europäischer Grundlagenforschung ist insbesondere CERN (Europäische Organisation für Kernforschung) in Genf und European Synchrotron Radiation Facility in Grenoble. In Deutschland sind darüber hinaus auch spezielle Forschungseinrichtungen wie die gemeinnützige Forschungsorganisation Max-Planck-Gesellschaft e. V. (MPG) sowie die Institute der Helmholtz-Gemeinschaft Deutscher Forschungszentren (HGF) befasst. In Österreich arbeiten Einrichtungen wie die Österreichische Akademie der Wissenschaften (ÖAW) in der Grundlagenforschung. In Italien gilt Triest als ein Zentrum der Grundlagenforschung mit dem International Centre for Theoretical Physics (ICTP), dem Forschungskomplex Elettra Sincrotrone Trieste mit unter anderem dem Elektronenbeschleuniger Elettra[2] und dem Freie-Elektronen-Laser FERMI.[3] Grundlagenforschung dient der Erweiterung elementarer wissenschaftlicher Erkenntnisse. Der Anwendungsbereich steht nicht im Vordergrund des Interesses. Grundlagenforschung bietet ein Fundament für die angewandte Forschung und Entwicklung.
+
+Sitz der Leibniz-Gemeinschaft in Berlin
+
+    Translationale Forschung, weiterführende, gezielte Grundlagenforschung an der Schnittstelle zur angewandten Forschung, die auf selbst gewonnenen wissenschaftlichen Erkenntnissen aufbaut und auf konkrete Anwendungsziele oder/und einen zu entwickelnden wirtschaftlichen, gesellschaftlichen oder kulturellen Nutzen ausgerichtet ist.[4] Hierzu zählt beispielsweise die Forschung der Leibniz-Gemeinschaft. In den Gesundheitswissenschaften und der Medizin (siehe Translationale Medizin) wird der Begriff verstanden als multidirektionale und multidisziplinäre Integration von Grundlagenforschung, patientenorientierter Forschung und bevölkerungsbezogener Forschung fördert, und zwar mit dem langfristigen Ziel, die Gesundheit der Allgemeinheit zu verbessern.[5]
+    Angewandte Forschung (auch Zweckforschung), die ein praxisbezogenes, oft technisches oder medizinisches Problem lösen will. Sie verfolgt eine wirtschaftliche Nutzung und findet sowohl an Hochschulen als auch in der freien Wirtschaft, in Deutschland auch an den Instituten der Fraunhofer-Gesellschaft, statt. In anderen Ländern kennt man ebenfalls ähnliche, teils staatlich finanzierte Einrichtungen, zum Beispiel die TNO in den Niederlanden, das Austrian Institute of Technology (AIT) in Österreich oder der AREA Science Park in Triest, Italien. Im engeren Sinne wird bei Angewandter Forschung noch zwischen Verfahrens- und Erzeugnisforschung unterschieden. Die gewonnenen Erkenntnisse werden in technische Entwicklungen umgesetzt.
+
+Während die Grundlagenforschung vom reinen Erkenntnisinteresse geleitet wird und allgemein gültige Zusammenhänge und Gesetzmäßigkeiten aufzuspüren versucht, ist die Angewandte Forschung auf praxisrelevante, nützliche Ergebnisse ausgerichtet wie etwa in der medizinischen Forschung. Jede der beiden Forschungsrichtungen kann Impulsgeber für die andere sein und von der anderen profitieren. Die Grundlagenforschung arbeitet auf einem höheren Abstraktionsniveau, die Anwendungsforschung bewegt sich näher an der praktischen Verwertbarkeit. Die Stanford University in Kalifornien mit dem Stanford Linear Accelerator Center, den Forschungen bzw. Studien in Natur- und Ingenieurwissenschaften und den IT-Unternehmen im Silicon Valley gilt als internationales Vorbild hinsichtlich Verbindung von Grundlagenforschung, Anwendungsforschung und wirtschaftlicher Nutzung.[6]
+Finanzierung
+
+Das Wirtschaftswachstum kann über die Investitions- bzw. Forschungsquote gefördert werden und daher ist die Forschung und deren Finanzierung volkswirtschaftlich erheblich. Vor allem die Konzentration von Forschung und Entwicklung auf Spitzentechnologie wirkt langfristig wachstumsfördernd.[7]
+
+Gemessen am finanziellen Aufwand entfällt in den Industrieländern der Großteil der Forschung auf die Industrie, ist also vor allem der angewandten Forschung zuzurechnen. Die Grundlagenforschung wird hingegen überwiegend von Wissenschaftlern der Forschungseinrichtungen der Hochschulen sowie (in geringerem Ausmaß) spezialisierter Institute getragen.
+
+Diese Forschung wird überwiegend aus dem Budget des Instituts bzw. der Hochschule finanziert. Doch wächst in fast allen westlichen Staaten der Anteil sogenannter Drittmittelforschung. Im Wesentlichen sind dies von Hochschullehrern beantragte und durchgeführte Forschungsprojekte, für die meist eine (halb-)staatliche Forschungsförderung existiert.
+
+Im Rahmen der EU ist der Europäische Forschungsrat (European Research Council, ERC) eine wichtige Institution zur Finanzierung von Grundlagenforschung.
+Deutschland
+
+Laut Berechnungen des Statistischen Bundesamtes für das Jahr 2007 betrugen die gesamten Forschungsaufwendungen in Deutschland insgesamt rund 61,5 Milliarden Euro, wovon 70 Prozent von der Industrie finanziert wurden. Die forschenden Pharmaunternehmen in Deutschland trugen dabei 10,5 Prozent der gesamten Forschungsaufwendungen der deutschen Industrie.[8]
+
+Von den etwa 18 Milliarden Euro „nichtindustrieller“ Forschung entfällt der Großteil auf die Institute an den Hochschulen und Akademien. Zu deren Primärbudgets kommen die eingeworbenen Drittmittel, welche überwiegend die Deutsche Forschungsgemeinschaft (DFG) finanziert. Deren Etat belief sich 2010 auf rund 2,3 Milliarden Euro. Laut Forschungsbericht 2010 kamen davon 67,1 Prozent vom Bund, 32,7 Prozent von den Ländern und 0,2 Prozent aus Stiftungen und privaten Zuwendungen.
+
+Von den 32.000 Forschungsprojekten der laufenden Förderung waren über 15.000 in der Einzelförderung angesiedelt. Für sie wurden 2010 insgesamt 894 Millionen Euro an Fördermitteln bewilligt. Dazu kommen 256 Sonderforschungsbereiche, für welche die DFG etwa 4600 Projekte unterstützte (Bewilligungsvolumen 547 Millionen Euro). Der DFG-Bericht schreibt ferner: Ebenfalls in den koordinierten Programmen gefördert wurden 237 Graduiertenkollegs (138 Millionen Euro), 113 Schwerpunktprogramme mit etwa 3400 Projekten (193 Millionen Euro) und 252 Forschergruppen mit fast 2500 Projekten (150 Millionen Euro).
+Österreich
+
+Österreichs Forschungsförderungsfonds FWF und FFG unterscheiden zwischen Grundlagen- und gewerblicher Forschung. Beide Fonds werden überwiegend vom Staat finanziert, der Rest aus der Privatwirtschaft. Der FWF bewilligte 2012 684 neue Forschungsprojekte in der Höhe von insgesamt knapp 200 Millionen Euro.[9] Auf 427 Mio. Auszahlung für Forschungsprojekte kommt die FFG im Jahr 2012.[10] Weitere (teils öffentliche) Fördereinrichtungen sind die Christian-Doppler Gesellschaft und die ÖAW. Neben FWF und FFG gibt es in Österreich noch eine Reihe weiterer Forschungsfinanzierungsagenturen, wie z. B. die Bundesministerien für Wissenschaft und Forschung, für Verkehr, Innovation und Technologie, und für Wirtschaft, Familie und Jugend. Einige Bundesländer haben ebenfalls Forschungsförderprogramme eingerichtet, wie z. B. Wien mit dem WWTF (Wiener Wissenschafts-, Forschungs- und Technologiefonds) und dem ZIT (Zentrum für Innovation und Technologie) oder die SFG in der Steiermark (Steirische Wirtschaftsförderungsgesellschaft). Fast alle Bundesländer bedienen sich aber auch der FFG, um eigenfinanzierte Programme abwickeln zu lassen. Der Anteil an privater non-for-profit Forschungsfinanzierung ist in Österreich vergleichsweise gering.
+Schweiz
+
+Gemäß Staatssekretariat für Bildung, Forschung und Innovation wurden in der Schweiz 2017 Aufwendungen für Forschung & Entwicklung im Umfang von 22,5 Milliarden Schweizer Franken getätigt. Dieser Betrag entspricht 3,4 % des BIP. Die Schweiz gehört damit zu den Ländern, die im Verhältnis zu ihrem BIP die höchsten Investitionen in Forschung und Entwicklung tätigen. Wie in vielen weiteren Industriestaaten, entfällt der größte Teil dieser Aufwendungen auf die Privatwirtschaft, die rund zwei Drittel der Aktivitäten im Bereich Forschung & Entwicklung finanziert und durchführt. Neben den kantonalen Universitäten und den beiden Eidgenössischen Technischen Hochschulen ist in der Schweiz primär der Bund für die staatliche F&E-Förderung zuständig. Die wichtigsten Förderinstrumente des Bundes sind dabei der Schweizerische Nationalfonds zur Förderung der wissenschaftlichen Forschung und des wissenschaftlichen Nachwuchs (jährliches Förderbudget von rund 1,2 Milliarden CHF) sowie die Innosuisse, die Schweizerische Agentur für Innovationsförderung (jährliches Förderbudget von rund 200 Mio. CHF). Zusätzlich ist die Beteiligung an den Forschungsrahmenprogrammen der Europäischen Union von besonderer Bedeutung für die Schweiz.[11] "
+    }
+]
